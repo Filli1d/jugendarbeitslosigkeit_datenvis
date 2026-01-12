@@ -1,0 +1,841 @@
+Kennziffer,region,jahr,variable,value,variable_raw
+9461,"Bamberg, Stadt",2010,Arbeitslosenquote,5.82,Arbeitslosenquote
+9462,"Bayreuth, Stadt",2010,Arbeitslosenquote,7.05,Arbeitslosenquote
+9471,Bamberg,2010,Arbeitslosenquote,3.56,Arbeitslosenquote
+9472,Bayreuth,2010,Arbeitslosenquote,4.52,Arbeitslosenquote
+9474,Forchheim,2010,Arbeitslosenquote,3.77,Arbeitslosenquote
+9562,Erlangen,2010,Arbeitslosenquote,4.2,Arbeitslosenquote
+9563,"Fürth, Stadt",2010,Arbeitslosenquote,7.49,Arbeitslosenquote
+9564,Nürnberg,2010,Arbeitslosenquote,8.53,Arbeitslosenquote
+9565,Schwabach,2010,Arbeitslosenquote,5.26,Arbeitslosenquote
+9572,Erlangen-Höchstadt,2010,Arbeitslosenquote,2.88,Arbeitslosenquote
+9573,Fürth,2010,Arbeitslosenquote,3.95,Arbeitslosenquote
+9574,Nürnberger Land,2010,Arbeitslosenquote,3.46,Arbeitslosenquote
+9461,"Bamberg, Stadt",2011,Arbeitslosenquote,4.94,Arbeitslosenquote.1
+9462,"Bayreuth, Stadt",2011,Arbeitslosenquote,6.24,Arbeitslosenquote.1
+9471,Bamberg,2011,Arbeitslosenquote,2.93,Arbeitslosenquote.1
+9472,Bayreuth,2011,Arbeitslosenquote,3.81,Arbeitslosenquote.1
+9474,Forchheim,2011,Arbeitslosenquote,3.09,Arbeitslosenquote.1
+9562,Erlangen,2011,Arbeitslosenquote,3.71,Arbeitslosenquote.1
+9563,"Fürth, Stadt",2011,Arbeitslosenquote,6.62,Arbeitslosenquote.1
+9564,Nürnberg,2011,Arbeitslosenquote,7.89,Arbeitslosenquote.1
+9565,Schwabach,2011,Arbeitslosenquote,4.65,Arbeitslosenquote.1
+9572,Erlangen-Höchstadt,2011,Arbeitslosenquote,2.32,Arbeitslosenquote.1
+9573,Fürth,2011,Arbeitslosenquote,3.19,Arbeitslosenquote.1
+9574,Nürnberger Land,2011,Arbeitslosenquote,2.89,Arbeitslosenquote.1
+9461,"Bamberg, Stadt",2012,Arbeitslosenquote,5.09,Arbeitslosenquote.2
+9462,"Bayreuth, Stadt",2012,Arbeitslosenquote,6.0,Arbeitslosenquote.2
+9471,Bamberg,2012,Arbeitslosenquote,3.01,Arbeitslosenquote.2
+9472,Bayreuth,2012,Arbeitslosenquote,3.51,Arbeitslosenquote.2
+9474,Forchheim,2012,Arbeitslosenquote,3.04,Arbeitslosenquote.2
+9562,Erlangen,2012,Arbeitslosenquote,3.87,Arbeitslosenquote.2
+9563,"Fürth, Stadt",2012,Arbeitslosenquote,6.56,Arbeitslosenquote.2
+9564,Nürnberg,2012,Arbeitslosenquote,7.71,Arbeitslosenquote.2
+9565,Schwabach,2012,Arbeitslosenquote,4.39,Arbeitslosenquote.2
+9572,Erlangen-Höchstadt,2012,Arbeitslosenquote,2.27,Arbeitslosenquote.2
+9573,Fürth,2012,Arbeitslosenquote,3.22,Arbeitslosenquote.2
+9574,Nürnberger Land,2012,Arbeitslosenquote,2.83,Arbeitslosenquote.2
+9461,"Bamberg, Stadt",2013,Arbeitslosenquote,5.1,Arbeitslosenquote.3
+9462,"Bayreuth, Stadt",2013,Arbeitslosenquote,6.3,Arbeitslosenquote.3
+9471,Bamberg,2013,Arbeitslosenquote,2.9,Arbeitslosenquote.3
+9472,Bayreuth,2013,Arbeitslosenquote,3.7,Arbeitslosenquote.3
+9474,Forchheim,2013,Arbeitslosenquote,3.2,Arbeitslosenquote.3
+9562,Erlangen,2013,Arbeitslosenquote,4.1,Arbeitslosenquote.3
+9563,"Fürth, Stadt",2013,Arbeitslosenquote,6.9,Arbeitslosenquote.3
+9564,Nürnberg,2013,Arbeitslosenquote,7.8,Arbeitslosenquote.3
+9565,Schwabach,2013,Arbeitslosenquote,4.6,Arbeitslosenquote.3
+9572,Erlangen-Höchstadt,2013,Arbeitslosenquote,2.4,Arbeitslosenquote.3
+9573,Fürth,2013,Arbeitslosenquote,3.4,Arbeitslosenquote.3
+9574,Nürnberger Land,2013,Arbeitslosenquote,3.1,Arbeitslosenquote.3
+9461,"Bamberg, Stadt",2014,Arbeitslosenquote,5.0,Arbeitslosenquote.4
+9462,"Bayreuth, Stadt",2014,Arbeitslosenquote,6.09,Arbeitslosenquote.4
+9471,Bamberg,2014,Arbeitslosenquote,2.95,Arbeitslosenquote.4
+9472,Bayreuth,2014,Arbeitslosenquote,3.67,Arbeitslosenquote.4
+9474,Forchheim,2014,Arbeitslosenquote,3.0,Arbeitslosenquote.4
+9562,Erlangen,2014,Arbeitslosenquote,4.13,Arbeitslosenquote.4
+9563,"Fürth, Stadt",2014,Arbeitslosenquote,6.74,Arbeitslosenquote.4
+9564,Nürnberg,2014,Arbeitslosenquote,7.6,Arbeitslosenquote.4
+9565,Schwabach,2014,Arbeitslosenquote,4.23,Arbeitslosenquote.4
+9572,Erlangen-Höchstadt,2014,Arbeitslosenquote,2.31,Arbeitslosenquote.4
+9573,Fürth,2014,Arbeitslosenquote,3.26,Arbeitslosenquote.4
+9574,Nürnberger Land,2014,Arbeitslosenquote,3.04,Arbeitslosenquote.4
+9461,"Bamberg, Stadt",2015,Arbeitslosenquote,4.9,Arbeitslosenquote.5
+9462,"Bayreuth, Stadt",2015,Arbeitslosenquote,5.78,Arbeitslosenquote.5
+9471,Bamberg,2015,Arbeitslosenquote,2.68,Arbeitslosenquote.5
+9472,Bayreuth,2015,Arbeitslosenquote,3.41,Arbeitslosenquote.5
+9474,Forchheim,2015,Arbeitslosenquote,2.93,Arbeitslosenquote.5
+9562,Erlangen,2015,Arbeitslosenquote,3.93,Arbeitslosenquote.5
+9563,"Fürth, Stadt",2015,Arbeitslosenquote,6.56,Arbeitslosenquote.5
+9564,Nürnberg,2015,Arbeitslosenquote,7.18,Arbeitslosenquote.5
+9565,Schwabach,2015,Arbeitslosenquote,4.08,Arbeitslosenquote.5
+9572,Erlangen-Höchstadt,2015,Arbeitslosenquote,2.32,Arbeitslosenquote.5
+9573,Fürth,2015,Arbeitslosenquote,3.06,Arbeitslosenquote.5
+9574,Nürnberger Land,2015,Arbeitslosenquote,2.82,Arbeitslosenquote.5
+9461,"Bamberg, Stadt",2016,Arbeitslosenquote,4.68,Arbeitslosenquote.6
+9462,"Bayreuth, Stadt",2016,Arbeitslosenquote,5.38,Arbeitslosenquote.6
+9471,Bamberg,2016,Arbeitslosenquote,2.5,Arbeitslosenquote.6
+9472,Bayreuth,2016,Arbeitslosenquote,3.31,Arbeitslosenquote.6
+9474,Forchheim,2016,Arbeitslosenquote,2.93,Arbeitslosenquote.6
+9562,Erlangen,2016,Arbeitslosenquote,3.86,Arbeitslosenquote.6
+9563,"Fürth, Stadt",2016,Arbeitslosenquote,5.98,Arbeitslosenquote.6
+9564,Nürnberg,2016,Arbeitslosenquote,6.64,Arbeitslosenquote.6
+9565,Schwabach,2016,Arbeitslosenquote,3.66,Arbeitslosenquote.6
+9572,Erlangen-Höchstadt,2016,Arbeitslosenquote,2.31,Arbeitslosenquote.6
+9573,Fürth,2016,Arbeitslosenquote,3.02,Arbeitslosenquote.6
+9574,Nürnberger Land,2016,Arbeitslosenquote,2.69,Arbeitslosenquote.6
+9461,"Bamberg, Stadt",2017,Arbeitslosenquote,4.45,Arbeitslosenquote.7
+9462,"Bayreuth, Stadt",2017,Arbeitslosenquote,5.03,Arbeitslosenquote.7
+9471,Bamberg,2017,Arbeitslosenquote,2.31,Arbeitslosenquote.7
+9472,Bayreuth,2017,Arbeitslosenquote,3.05,Arbeitslosenquote.7
+9474,Forchheim,2017,Arbeitslosenquote,2.71,Arbeitslosenquote.7
+9562,Erlangen,2017,Arbeitslosenquote,3.89,Arbeitslosenquote.7
+9563,"Fürth, Stadt",2017,Arbeitslosenquote,5.33,Arbeitslosenquote.7
+9564,Nürnberg,2017,Arbeitslosenquote,5.96,Arbeitslosenquote.7
+9565,Schwabach,2017,Arbeitslosenquote,3.44,Arbeitslosenquote.7
+9572,Erlangen-Höchstadt,2017,Arbeitslosenquote,2.03,Arbeitslosenquote.7
+9573,Fürth,2017,Arbeitslosenquote,2.74,Arbeitslosenquote.7
+9574,Nürnberger Land,2017,Arbeitslosenquote,2.53,Arbeitslosenquote.7
+9461,"Bamberg, Stadt",2018,Arbeitslosenquote,4.01,Arbeitslosenquote.8
+9462,"Bayreuth, Stadt",2018,Arbeitslosenquote,4.53,Arbeitslosenquote.8
+9471,Bamberg,2018,Arbeitslosenquote,2.07,Arbeitslosenquote.8
+9472,Bayreuth,2018,Arbeitslosenquote,2.8,Arbeitslosenquote.8
+9474,Forchheim,2018,Arbeitslosenquote,2.49,Arbeitslosenquote.8
+9562,Erlangen,2018,Arbeitslosenquote,3.68,Arbeitslosenquote.8
+9563,"Fürth, Stadt",2018,Arbeitslosenquote,4.86,Arbeitslosenquote.8
+9564,Nürnberg,2018,Arbeitslosenquote,5.42,Arbeitslosenquote.8
+9565,Schwabach,2018,Arbeitslosenquote,3.25,Arbeitslosenquote.8
+9572,Erlangen-Höchstadt,2018,Arbeitslosenquote,1.92,Arbeitslosenquote.8
+9573,Fürth,2018,Arbeitslosenquote,2.53,Arbeitslosenquote.8
+9574,Nürnberger Land,2018,Arbeitslosenquote,2.4,Arbeitslosenquote.8
+9461,"Bamberg, Stadt",2019,Arbeitslosenquote,3.78,Arbeitslosenquote.9
+9462,"Bayreuth, Stadt",2019,Arbeitslosenquote,4.23,Arbeitslosenquote.9
+9471,Bamberg,2019,Arbeitslosenquote,2.06,Arbeitslosenquote.9
+9472,Bayreuth,2019,Arbeitslosenquote,2.63,Arbeitslosenquote.9
+9474,Forchheim,2019,Arbeitslosenquote,2.4,Arbeitslosenquote.9
+9562,Erlangen,2019,Arbeitslosenquote,3.52,Arbeitslosenquote.9
+9563,"Fürth, Stadt",2019,Arbeitslosenquote,4.84,Arbeitslosenquote.9
+9564,Nürnberg,2019,Arbeitslosenquote,5.21,Arbeitslosenquote.9
+9565,Schwabach,2019,Arbeitslosenquote,3.19,Arbeitslosenquote.9
+9572,Erlangen-Höchstadt,2019,Arbeitslosenquote,1.84,Arbeitslosenquote.9
+9573,Fürth,2019,Arbeitslosenquote,2.49,Arbeitslosenquote.9
+9574,Nürnberger Land,2019,Arbeitslosenquote,2.3,Arbeitslosenquote.9
+9461,"Bamberg, Stadt",2020,Arbeitslosenquote,4.53,Arbeitslosenquote.10
+9462,"Bayreuth, Stadt",2020,Arbeitslosenquote,5.2,Arbeitslosenquote.10
+9471,Bamberg,2020,Arbeitslosenquote,2.65,Arbeitslosenquote.10
+9472,Bayreuth,2020,Arbeitslosenquote,3.24,Arbeitslosenquote.10
+9474,Forchheim,2020,Arbeitslosenquote,2.95,Arbeitslosenquote.10
+9562,Erlangen,2020,Arbeitslosenquote,4.07,Arbeitslosenquote.10
+9563,"Fürth, Stadt",2020,Arbeitslosenquote,5.73,Arbeitslosenquote.10
+9564,Nürnberg,2020,Arbeitslosenquote,6.31,Arbeitslosenquote.10
+9565,Schwabach,2020,Arbeitslosenquote,4.05,Arbeitslosenquote.10
+9572,Erlangen-Höchstadt,2020,Arbeitslosenquote,2.49,Arbeitslosenquote.10
+9573,Fürth,2020,Arbeitslosenquote,3.2,Arbeitslosenquote.10
+9574,Nürnberger Land,2020,Arbeitslosenquote,2.93,Arbeitslosenquote.10
+9461,"Bamberg, Stadt",2021,Arbeitslosenquote,4.56,Arbeitslosenquote.11
+9462,"Bayreuth, Stadt",2021,Arbeitslosenquote,4.47,Arbeitslosenquote.11
+9471,Bamberg,2021,Arbeitslosenquote,2.63,Arbeitslosenquote.11
+9472,Bayreuth,2021,Arbeitslosenquote,2.9,Arbeitslosenquote.11
+9474,Forchheim,2021,Arbeitslosenquote,2.95,Arbeitslosenquote.11
+9562,Erlangen,2021,Arbeitslosenquote,4.09,Arbeitslosenquote.11
+9563,"Fürth, Stadt",2021,Arbeitslosenquote,5.57,Arbeitslosenquote.11
+9564,Nürnberg,2021,Arbeitslosenquote,6.07,Arbeitslosenquote.11
+9565,Schwabach,2021,Arbeitslosenquote,3.81,Arbeitslosenquote.11
+9572,Erlangen-Höchstadt,2021,Arbeitslosenquote,2.47,Arbeitslosenquote.11
+9573,Fürth,2021,Arbeitslosenquote,3.16,Arbeitslosenquote.11
+9574,Nürnberger Land,2021,Arbeitslosenquote,2.69,Arbeitslosenquote.11
+9461,"Bamberg, Stadt",2022,Arbeitslosenquote,4.28,Arbeitslosenquote.12
+9462,"Bayreuth, Stadt",2022,Arbeitslosenquote,4.37,Arbeitslosenquote.12
+9471,Bamberg,2022,Arbeitslosenquote,2.34,Arbeitslosenquote.12
+9472,Bayreuth,2022,Arbeitslosenquote,2.9,Arbeitslosenquote.12
+9474,Forchheim,2022,Arbeitslosenquote,2.7,Arbeitslosenquote.12
+9562,Erlangen,2022,Arbeitslosenquote,3.64,Arbeitslosenquote.12
+9563,"Fürth, Stadt",2022,Arbeitslosenquote,4.9,Arbeitslosenquote.12
+9564,Nürnberg,2022,Arbeitslosenquote,5.45,Arbeitslosenquote.12
+9565,Schwabach,2022,Arbeitslosenquote,3.35,Arbeitslosenquote.12
+9572,Erlangen-Höchstadt,2022,Arbeitslosenquote,2.41,Arbeitslosenquote.12
+9573,Fürth,2022,Arbeitslosenquote,2.64,Arbeitslosenquote.12
+9574,Nürnberger Land,2022,Arbeitslosenquote,2.37,Arbeitslosenquote.12
+9461,"Bamberg, Stadt",2023,Arbeitslosenquote,4.39,Arbeitslosenquote.13
+9462,"Bayreuth, Stadt",2023,Arbeitslosenquote,4.79,Arbeitslosenquote.13
+9471,Bamberg,2023,Arbeitslosenquote,2.53,Arbeitslosenquote.13
+9472,Bayreuth,2023,Arbeitslosenquote,3.15,Arbeitslosenquote.13
+9474,Forchheim,2023,Arbeitslosenquote,2.97,Arbeitslosenquote.13
+9562,Erlangen,2023,Arbeitslosenquote,4.1,Arbeitslosenquote.13
+9563,"Fürth, Stadt",2023,Arbeitslosenquote,5.05,Arbeitslosenquote.13
+9564,Nürnberg,2023,Arbeitslosenquote,5.92,Arbeitslosenquote.13
+9565,Schwabach,2023,Arbeitslosenquote,3.51,Arbeitslosenquote.13
+9572,Erlangen-Höchstadt,2023,Arbeitslosenquote,2.64,Arbeitslosenquote.13
+9573,Fürth,2023,Arbeitslosenquote,2.74,Arbeitslosenquote.13
+9574,Nürnberger Land,2023,Arbeitslosenquote,2.54,Arbeitslosenquote.13
+9461,"Bamberg, Stadt",2010,Arbeitslose ohne Ausbildung,47.84,Arbeitslose ohne Ausbildung
+9462,"Bayreuth, Stadt",2010,Arbeitslose ohne Ausbildung,47.38,Arbeitslose ohne Ausbildung
+9471,Bamberg,2010,Arbeitslose ohne Ausbildung,32.39,Arbeitslose ohne Ausbildung
+9472,Bayreuth,2010,Arbeitslose ohne Ausbildung,32.75,Arbeitslose ohne Ausbildung
+9474,Forchheim,2010,Arbeitslose ohne Ausbildung,35.43,Arbeitslose ohne Ausbildung
+9562,Erlangen,2010,Arbeitslose ohne Ausbildung,31.68,Arbeitslose ohne Ausbildung
+9563,"Fürth, Stadt",2010,Arbeitslose ohne Ausbildung,52.83,Arbeitslose ohne Ausbildung
+9564,Nürnberg,2010,Arbeitslose ohne Ausbildung,57.63,Arbeitslose ohne Ausbildung
+9565,Schwabach,2010,Arbeitslose ohne Ausbildung,43.04,Arbeitslose ohne Ausbildung
+9572,Erlangen-Höchstadt,2010,Arbeitslose ohne Ausbildung,30.24,Arbeitslose ohne Ausbildung
+9573,Fürth,2010,Arbeitslose ohne Ausbildung,32.83,Arbeitslose ohne Ausbildung
+9574,Nürnberger Land,2010,Arbeitslose ohne Ausbildung,32.78,Arbeitslose ohne Ausbildung
+9461,"Bamberg, Stadt",2011,Arbeitslose ohne Ausbildung,47.31,Arbeitslose ohne Ausbildung.1
+9462,"Bayreuth, Stadt",2011,Arbeitslose ohne Ausbildung,47.13,Arbeitslose ohne Ausbildung.1
+9471,Bamberg,2011,Arbeitslose ohne Ausbildung,32.01,Arbeitslose ohne Ausbildung.1
+9472,Bayreuth,2011,Arbeitslose ohne Ausbildung,32.14,Arbeitslose ohne Ausbildung.1
+9474,Forchheim,2011,Arbeitslose ohne Ausbildung,35.59,Arbeitslose ohne Ausbildung.1
+9562,Erlangen,2011,Arbeitslose ohne Ausbildung,36.02,Arbeitslose ohne Ausbildung.1
+9563,"Fürth, Stadt",2011,Arbeitslose ohne Ausbildung,54.26,Arbeitslose ohne Ausbildung.1
+9564,Nürnberg,2011,Arbeitslose ohne Ausbildung,58.3,Arbeitslose ohne Ausbildung.1
+9565,Schwabach,2011,Arbeitslose ohne Ausbildung,44.08,Arbeitslose ohne Ausbildung.1
+9572,Erlangen-Höchstadt,2011,Arbeitslose ohne Ausbildung,31.86,Arbeitslose ohne Ausbildung.1
+9573,Fürth,2011,Arbeitslose ohne Ausbildung,34.42,Arbeitslose ohne Ausbildung.1
+9574,Nürnberger Land,2011,Arbeitslose ohne Ausbildung,32.62,Arbeitslose ohne Ausbildung.1
+9461,"Bamberg, Stadt",2012,Arbeitslose ohne Ausbildung,45.94,Arbeitslose ohne Ausbildung.2
+9462,"Bayreuth, Stadt",2012,Arbeitslose ohne Ausbildung,47.32,Arbeitslose ohne Ausbildung.2
+9471,Bamberg,2012,Arbeitslose ohne Ausbildung,30.51,Arbeitslose ohne Ausbildung.2
+9472,Bayreuth,2012,Arbeitslose ohne Ausbildung,31.66,Arbeitslose ohne Ausbildung.2
+9474,Forchheim,2012,Arbeitslose ohne Ausbildung,36.65,Arbeitslose ohne Ausbildung.2
+9562,Erlangen,2012,Arbeitslose ohne Ausbildung,38.72,Arbeitslose ohne Ausbildung.2
+9563,"Fürth, Stadt",2012,Arbeitslose ohne Ausbildung,53.94,Arbeitslose ohne Ausbildung.2
+9564,Nürnberg,2012,Arbeitslose ohne Ausbildung,58.28,Arbeitslose ohne Ausbildung.2
+9565,Schwabach,2012,Arbeitslose ohne Ausbildung,45.67,Arbeitslose ohne Ausbildung.2
+9572,Erlangen-Höchstadt,2012,Arbeitslose ohne Ausbildung,31.77,Arbeitslose ohne Ausbildung.2
+9573,Fürth,2012,Arbeitslose ohne Ausbildung,33.59,Arbeitslose ohne Ausbildung.2
+9574,Nürnberger Land,2012,Arbeitslose ohne Ausbildung,32.84,Arbeitslose ohne Ausbildung.2
+9461,"Bamberg, Stadt",2013,Arbeitslose ohne Ausbildung,44.04,Arbeitslose ohne Ausbildung.3
+9462,"Bayreuth, Stadt",2013,Arbeitslose ohne Ausbildung,46.4,Arbeitslose ohne Ausbildung.3
+9471,Bamberg,2013,Arbeitslose ohne Ausbildung,30.51,Arbeitslose ohne Ausbildung.3
+9472,Bayreuth,2013,Arbeitslose ohne Ausbildung,32.0,Arbeitslose ohne Ausbildung.3
+9474,Forchheim,2013,Arbeitslose ohne Ausbildung,33.38,Arbeitslose ohne Ausbildung.3
+9562,Erlangen,2013,Arbeitslose ohne Ausbildung,39.73,Arbeitslose ohne Ausbildung.3
+9563,"Fürth, Stadt",2013,Arbeitslose ohne Ausbildung,52.49,Arbeitslose ohne Ausbildung.3
+9564,Nürnberg,2013,Arbeitslose ohne Ausbildung,55.99,Arbeitslose ohne Ausbildung.3
+9565,Schwabach,2013,Arbeitslose ohne Ausbildung,45.41,Arbeitslose ohne Ausbildung.3
+9572,Erlangen-Höchstadt,2013,Arbeitslose ohne Ausbildung,32.36,Arbeitslose ohne Ausbildung.3
+9573,Fürth,2013,Arbeitslose ohne Ausbildung,33.74,Arbeitslose ohne Ausbildung.3
+9574,Nürnberger Land,2013,Arbeitslose ohne Ausbildung,32.7,Arbeitslose ohne Ausbildung.3
+9461,"Bamberg, Stadt",2014,Arbeitslose ohne Ausbildung,43.49,Arbeitslose ohne Ausbildung.4
+9462,"Bayreuth, Stadt",2014,Arbeitslose ohne Ausbildung,45.56,Arbeitslose ohne Ausbildung.4
+9471,Bamberg,2014,Arbeitslose ohne Ausbildung,30.59,Arbeitslose ohne Ausbildung.4
+9472,Bayreuth,2014,Arbeitslose ohne Ausbildung,30.38,Arbeitslose ohne Ausbildung.4
+9474,Forchheim,2014,Arbeitslose ohne Ausbildung,32.53,Arbeitslose ohne Ausbildung.4
+9562,Erlangen,2014,Arbeitslose ohne Ausbildung,45.03,Arbeitslose ohne Ausbildung.4
+9563,"Fürth, Stadt",2014,Arbeitslose ohne Ausbildung,51.65,Arbeitslose ohne Ausbildung.4
+9564,Nürnberg,2014,Arbeitslose ohne Ausbildung,55.41,Arbeitslose ohne Ausbildung.4
+9565,Schwabach,2014,Arbeitslose ohne Ausbildung,44.7,Arbeitslose ohne Ausbildung.4
+9572,Erlangen-Höchstadt,2014,Arbeitslose ohne Ausbildung,32.56,Arbeitslose ohne Ausbildung.4
+9573,Fürth,2014,Arbeitslose ohne Ausbildung,34.03,Arbeitslose ohne Ausbildung.4
+9574,Nürnberger Land,2014,Arbeitslose ohne Ausbildung,32.98,Arbeitslose ohne Ausbildung.4
+9461,"Bamberg, Stadt",2015,Arbeitslose ohne Ausbildung,44.93,Arbeitslose ohne Ausbildung.5
+9462,"Bayreuth, Stadt",2015,Arbeitslose ohne Ausbildung,45.95,Arbeitslose ohne Ausbildung.5
+9471,Bamberg,2015,Arbeitslose ohne Ausbildung,31.5,Arbeitslose ohne Ausbildung.5
+9472,Bayreuth,2015,Arbeitslose ohne Ausbildung,30.15,Arbeitslose ohne Ausbildung.5
+9474,Forchheim,2015,Arbeitslose ohne Ausbildung,32.51,Arbeitslose ohne Ausbildung.5
+9562,Erlangen,2015,Arbeitslose ohne Ausbildung,47.64,Arbeitslose ohne Ausbildung.5
+9563,"Fürth, Stadt",2015,Arbeitslose ohne Ausbildung,53.56,Arbeitslose ohne Ausbildung.5
+9564,Nürnberg,2015,Arbeitslose ohne Ausbildung,55.69,Arbeitslose ohne Ausbildung.5
+9565,Schwabach,2015,Arbeitslose ohne Ausbildung,48.7,Arbeitslose ohne Ausbildung.5
+9572,Erlangen-Höchstadt,2015,Arbeitslose ohne Ausbildung,33.62,Arbeitslose ohne Ausbildung.5
+9573,Fürth,2015,Arbeitslose ohne Ausbildung,34.48,Arbeitslose ohne Ausbildung.5
+9574,Nürnberger Land,2015,Arbeitslose ohne Ausbildung,34.22,Arbeitslose ohne Ausbildung.5
+9461,"Bamberg, Stadt",2016,Arbeitslose ohne Ausbildung,46.82,Arbeitslose ohne Ausbildung.6
+9462,"Bayreuth, Stadt",2016,Arbeitslose ohne Ausbildung,46.76,Arbeitslose ohne Ausbildung.6
+9471,Bamberg,2016,Arbeitslose ohne Ausbildung,33.63,Arbeitslose ohne Ausbildung.6
+9472,Bayreuth,2016,Arbeitslose ohne Ausbildung,32.77,Arbeitslose ohne Ausbildung.6
+9474,Forchheim,2016,Arbeitslose ohne Ausbildung,35.64,Arbeitslose ohne Ausbildung.6
+9562,Erlangen,2016,Arbeitslose ohne Ausbildung,51.31,Arbeitslose ohne Ausbildung.6
+9563,"Fürth, Stadt",2016,Arbeitslose ohne Ausbildung,55.98,Arbeitslose ohne Ausbildung.6
+9564,Nürnberg,2016,Arbeitslose ohne Ausbildung,57.17,Arbeitslose ohne Ausbildung.6
+9565,Schwabach,2016,Arbeitslose ohne Ausbildung,51.87,Arbeitslose ohne Ausbildung.6
+9572,Erlangen-Höchstadt,2016,Arbeitslose ohne Ausbildung,37.97,Arbeitslose ohne Ausbildung.6
+9573,Fürth,2016,Arbeitslose ohne Ausbildung,38.18,Arbeitslose ohne Ausbildung.6
+9574,Nürnberger Land,2016,Arbeitslose ohne Ausbildung,37.99,Arbeitslose ohne Ausbildung.6
+9461,"Bamberg, Stadt",2017,Arbeitslose ohne Ausbildung,49.29,Arbeitslose ohne Ausbildung.7
+9462,"Bayreuth, Stadt",2017,Arbeitslose ohne Ausbildung,46.73,Arbeitslose ohne Ausbildung.7
+9471,Bamberg,2017,Arbeitslose ohne Ausbildung,34.49,Arbeitslose ohne Ausbildung.7
+9472,Bayreuth,2017,Arbeitslose ohne Ausbildung,33.02,Arbeitslose ohne Ausbildung.7
+9474,Forchheim,2017,Arbeitslose ohne Ausbildung,36.36,Arbeitslose ohne Ausbildung.7
+9562,Erlangen,2017,Arbeitslose ohne Ausbildung,52.77,Arbeitslose ohne Ausbildung.7
+9563,"Fürth, Stadt",2017,Arbeitslose ohne Ausbildung,55.57,Arbeitslose ohne Ausbildung.7
+9564,Nürnberg,2017,Arbeitslose ohne Ausbildung,56.38,Arbeitslose ohne Ausbildung.7
+9565,Schwabach,2017,Arbeitslose ohne Ausbildung,53.17,Arbeitslose ohne Ausbildung.7
+9572,Erlangen-Höchstadt,2017,Arbeitslose ohne Ausbildung,36.13,Arbeitslose ohne Ausbildung.7
+9573,Fürth,2017,Arbeitslose ohne Ausbildung,38.97,Arbeitslose ohne Ausbildung.7
+9574,Nürnberger Land,2017,Arbeitslose ohne Ausbildung,36.56,Arbeitslose ohne Ausbildung.7
+9461,"Bamberg, Stadt",2018,Arbeitslose ohne Ausbildung,47.9,Arbeitslose ohne Ausbildung.8
+9462,"Bayreuth, Stadt",2018,Arbeitslose ohne Ausbildung,48.41,Arbeitslose ohne Ausbildung.8
+9471,Bamberg,2018,Arbeitslose ohne Ausbildung,35.08,Arbeitslose ohne Ausbildung.8
+9472,Bayreuth,2018,Arbeitslose ohne Ausbildung,33.43,Arbeitslose ohne Ausbildung.8
+9474,Forchheim,2018,Arbeitslose ohne Ausbildung,37.06,Arbeitslose ohne Ausbildung.8
+9562,Erlangen,2018,Arbeitslose ohne Ausbildung,54.21,Arbeitslose ohne Ausbildung.8
+9563,"Fürth, Stadt",2018,Arbeitslose ohne Ausbildung,55.76,Arbeitslose ohne Ausbildung.8
+9564,Nürnberg,2018,Arbeitslose ohne Ausbildung,55.69,Arbeitslose ohne Ausbildung.8
+9565,Schwabach,2018,Arbeitslose ohne Ausbildung,52.86,Arbeitslose ohne Ausbildung.8
+9572,Erlangen-Höchstadt,2018,Arbeitslose ohne Ausbildung,36.69,Arbeitslose ohne Ausbildung.8
+9573,Fürth,2018,Arbeitslose ohne Ausbildung,39.86,Arbeitslose ohne Ausbildung.8
+9574,Nürnberger Land,2018,Arbeitslose ohne Ausbildung,36.97,Arbeitslose ohne Ausbildung.8
+9461,"Bamberg, Stadt",2019,Arbeitslose ohne Ausbildung,46.6,Arbeitslose ohne Ausbildung.9
+9462,"Bayreuth, Stadt",2019,Arbeitslose ohne Ausbildung,46.76,Arbeitslose ohne Ausbildung.9
+9471,Bamberg,2019,Arbeitslose ohne Ausbildung,34.02,Arbeitslose ohne Ausbildung.9
+9472,Bayreuth,2019,Arbeitslose ohne Ausbildung,32.18,Arbeitslose ohne Ausbildung.9
+9474,Forchheim,2019,Arbeitslose ohne Ausbildung,36.53,Arbeitslose ohne Ausbildung.9
+9562,Erlangen,2019,Arbeitslose ohne Ausbildung,52.86,Arbeitslose ohne Ausbildung.9
+9563,"Fürth, Stadt",2019,Arbeitslose ohne Ausbildung,55.93,Arbeitslose ohne Ausbildung.9
+9564,Nürnberg,2019,Arbeitslose ohne Ausbildung,54.77,Arbeitslose ohne Ausbildung.9
+9565,Schwabach,2019,Arbeitslose ohne Ausbildung,53.14,Arbeitslose ohne Ausbildung.9
+9572,Erlangen-Höchstadt,2019,Arbeitslose ohne Ausbildung,37.51,Arbeitslose ohne Ausbildung.9
+9573,Fürth,2019,Arbeitslose ohne Ausbildung,40.9,Arbeitslose ohne Ausbildung.9
+9574,Nürnberger Land,2019,Arbeitslose ohne Ausbildung,36.92,Arbeitslose ohne Ausbildung.9
+9461,"Bamberg, Stadt",2020,Arbeitslose ohne Ausbildung,45.68,Arbeitslose ohne Ausbildung.10
+9462,"Bayreuth, Stadt",2020,Arbeitslose ohne Ausbildung,45.76,Arbeitslose ohne Ausbildung.10
+9471,Bamberg,2020,Arbeitslose ohne Ausbildung,34.1,Arbeitslose ohne Ausbildung.10
+9472,Bayreuth,2020,Arbeitslose ohne Ausbildung,32.79,Arbeitslose ohne Ausbildung.10
+9474,Forchheim,2020,Arbeitslose ohne Ausbildung,34.65,Arbeitslose ohne Ausbildung.10
+9562,Erlangen,2020,Arbeitslose ohne Ausbildung,50.15,Arbeitslose ohne Ausbildung.10
+9563,"Fürth, Stadt",2020,Arbeitslose ohne Ausbildung,54.59,Arbeitslose ohne Ausbildung.10
+9564,Nürnberg,2020,Arbeitslose ohne Ausbildung,53.33,Arbeitslose ohne Ausbildung.10
+9565,Schwabach,2020,Arbeitslose ohne Ausbildung,49.62,Arbeitslose ohne Ausbildung.10
+9572,Erlangen-Höchstadt,2020,Arbeitslose ohne Ausbildung,37.69,Arbeitslose ohne Ausbildung.10
+9573,Fürth,2020,Arbeitslose ohne Ausbildung,40.0,Arbeitslose ohne Ausbildung.10
+9574,Nürnberger Land,2020,Arbeitslose ohne Ausbildung,37.96,Arbeitslose ohne Ausbildung.10
+9461,"Bamberg, Stadt",2021,Arbeitslose ohne Ausbildung,47.18,Arbeitslose ohne Ausbildung.11
+9462,"Bayreuth, Stadt",2021,Arbeitslose ohne Ausbildung,46.65,Arbeitslose ohne Ausbildung.11
+9471,Bamberg,2021,Arbeitslose ohne Ausbildung,33.66,Arbeitslose ohne Ausbildung.11
+9472,Bayreuth,2021,Arbeitslose ohne Ausbildung,35.27,Arbeitslose ohne Ausbildung.11
+9474,Forchheim,2021,Arbeitslose ohne Ausbildung,35.26,Arbeitslose ohne Ausbildung.11
+9562,Erlangen,2021,Arbeitslose ohne Ausbildung,52.15,Arbeitslose ohne Ausbildung.11
+9563,"Fürth, Stadt",2021,Arbeitslose ohne Ausbildung,55.35,Arbeitslose ohne Ausbildung.11
+9564,Nürnberg,2021,Arbeitslose ohne Ausbildung,55.12,Arbeitslose ohne Ausbildung.11
+9565,Schwabach,2021,Arbeitslose ohne Ausbildung,49.16,Arbeitslose ohne Ausbildung.11
+9572,Erlangen-Höchstadt,2021,Arbeitslose ohne Ausbildung,38.26,Arbeitslose ohne Ausbildung.11
+9573,Fürth,2021,Arbeitslose ohne Ausbildung,39.87,Arbeitslose ohne Ausbildung.11
+9574,Nürnberger Land,2021,Arbeitslose ohne Ausbildung,39.48,Arbeitslose ohne Ausbildung.11
+9461,"Bamberg, Stadt",2022,Arbeitslose ohne Ausbildung,49.45,Arbeitslose ohne Ausbildung.12
+9462,"Bayreuth, Stadt",2022,Arbeitslose ohne Ausbildung,49.94,Arbeitslose ohne Ausbildung.12
+9471,Bamberg,2022,Arbeitslose ohne Ausbildung,34.73,Arbeitslose ohne Ausbildung.12
+9472,Bayreuth,2022,Arbeitslose ohne Ausbildung,36.91,Arbeitslose ohne Ausbildung.12
+9474,Forchheim,2022,Arbeitslose ohne Ausbildung,38.2,Arbeitslose ohne Ausbildung.12
+9562,Erlangen,2022,Arbeitslose ohne Ausbildung,56.23,Arbeitslose ohne Ausbildung.12
+9563,"Fürth, Stadt",2022,Arbeitslose ohne Ausbildung,58.95,Arbeitslose ohne Ausbildung.12
+9564,Nürnberg,2022,Arbeitslose ohne Ausbildung,56.51,Arbeitslose ohne Ausbildung.12
+9565,Schwabach,2022,Arbeitslose ohne Ausbildung,52.05,Arbeitslose ohne Ausbildung.12
+9572,Erlangen-Höchstadt,2022,Arbeitslose ohne Ausbildung,44.38,Arbeitslose ohne Ausbildung.12
+9573,Fürth,2022,Arbeitslose ohne Ausbildung,41.59,Arbeitslose ohne Ausbildung.12
+9574,Nürnberger Land,2022,Arbeitslose ohne Ausbildung,39.41,Arbeitslose ohne Ausbildung.12
+9461,"Bamberg, Stadt",2023,Arbeitslose ohne Ausbildung,48.33,Arbeitslose ohne Ausbildung.13
+9462,"Bayreuth, Stadt",2023,Arbeitslose ohne Ausbildung,47.61,Arbeitslose ohne Ausbildung.13
+9471,Bamberg,2023,Arbeitslose ohne Ausbildung,36.08,Arbeitslose ohne Ausbildung.13
+9472,Bayreuth,2023,Arbeitslose ohne Ausbildung,38.34,Arbeitslose ohne Ausbildung.13
+9474,Forchheim,2023,Arbeitslose ohne Ausbildung,40.95,Arbeitslose ohne Ausbildung.13
+9562,Erlangen,2023,Arbeitslose ohne Ausbildung,59.27,Arbeitslose ohne Ausbildung.13
+9563,"Fürth, Stadt",2023,Arbeitslose ohne Ausbildung,57.07,Arbeitslose ohne Ausbildung.13
+9564,Nürnberg,2023,Arbeitslose ohne Ausbildung,54.08,Arbeitslose ohne Ausbildung.13
+9565,Schwabach,2023,Arbeitslose ohne Ausbildung,52.02,Arbeitslose ohne Ausbildung.13
+9572,Erlangen-Höchstadt,2023,Arbeitslose ohne Ausbildung,45.13,Arbeitslose ohne Ausbildung.13
+9573,Fürth,2023,Arbeitslose ohne Ausbildung,40.43,Arbeitslose ohne Ausbildung.13
+9574,Nürnberger Land,2023,Arbeitslose ohne Ausbildung,41.52,Arbeitslose ohne Ausbildung.13
+9461,"Bamberg, Stadt",2010,Arbeitslosenquote Jüngere,4.52,Arbeitslosenquote Jüngere
+9462,"Bayreuth, Stadt",2010,Arbeitslosenquote Jüngere,5.42,Arbeitslosenquote Jüngere
+9471,Bamberg,2010,Arbeitslosenquote Jüngere,2.77,Arbeitslosenquote Jüngere
+9472,Bayreuth,2010,Arbeitslosenquote Jüngere,3.67,Arbeitslosenquote Jüngere
+9474,Forchheim,2010,Arbeitslosenquote Jüngere,3.47,Arbeitslosenquote Jüngere
+9562,Erlangen,2010,Arbeitslosenquote Jüngere,3.23,Arbeitslosenquote Jüngere
+9563,"Fürth, Stadt",2010,Arbeitslosenquote Jüngere,6.85,Arbeitslosenquote Jüngere
+9564,Nürnberg,2010,Arbeitslosenquote Jüngere,7.92,Arbeitslosenquote Jüngere
+9565,Schwabach,2010,Arbeitslosenquote Jüngere,4.66,Arbeitslosenquote Jüngere
+9572,Erlangen-Höchstadt,2010,Arbeitslosenquote Jüngere,2.48,Arbeitslosenquote Jüngere
+9573,Fürth,2010,Arbeitslosenquote Jüngere,3.71,Arbeitslosenquote Jüngere
+9574,Nürnberger Land,2010,Arbeitslosenquote Jüngere,3.37,Arbeitslosenquote Jüngere
+9461,"Bamberg, Stadt",2011,Arbeitslosenquote Jüngere,3.82,Arbeitslosenquote Jüngere.1
+9462,"Bayreuth, Stadt",2011,Arbeitslosenquote Jüngere,4.57,Arbeitslosenquote Jüngere.1
+9471,Bamberg,2011,Arbeitslosenquote Jüngere,2.15,Arbeitslosenquote Jüngere.1
+9472,Bayreuth,2011,Arbeitslosenquote Jüngere,3.12,Arbeitslosenquote Jüngere.1
+9474,Forchheim,2011,Arbeitslosenquote Jüngere,2.96,Arbeitslosenquote Jüngere.1
+9562,Erlangen,2011,Arbeitslosenquote Jüngere,3.0,Arbeitslosenquote Jüngere.1
+9563,"Fürth, Stadt",2011,Arbeitslosenquote Jüngere,6.31,Arbeitslosenquote Jüngere.1
+9564,Nürnberg,2011,Arbeitslosenquote Jüngere,7.44,Arbeitslosenquote Jüngere.1
+9565,Schwabach,2011,Arbeitslosenquote Jüngere,3.51,Arbeitslosenquote Jüngere.1
+9572,Erlangen-Höchstadt,2011,Arbeitslosenquote Jüngere,1.98,Arbeitslosenquote Jüngere.1
+9573,Fürth,2011,Arbeitslosenquote Jüngere,3.09,Arbeitslosenquote Jüngere.1
+9574,Nürnberger Land,2011,Arbeitslosenquote Jüngere,2.86,Arbeitslosenquote Jüngere.1
+9461,"Bamberg, Stadt",2012,Arbeitslosenquote Jüngere,3.47,Arbeitslosenquote Jüngere.2
+9462,"Bayreuth, Stadt",2012,Arbeitslosenquote Jüngere,3.87,Arbeitslosenquote Jüngere.2
+9471,Bamberg,2012,Arbeitslosenquote Jüngere,2.5,Arbeitslosenquote Jüngere.2
+9472,Bayreuth,2012,Arbeitslosenquote Jüngere,2.97,Arbeitslosenquote Jüngere.2
+9474,Forchheim,2012,Arbeitslosenquote Jüngere,2.81,Arbeitslosenquote Jüngere.2
+9562,Erlangen,2012,Arbeitslosenquote Jüngere,3.19,Arbeitslosenquote Jüngere.2
+9563,"Fürth, Stadt",2012,Arbeitslosenquote Jüngere,6.37,Arbeitslosenquote Jüngere.2
+9564,Nürnberg,2012,Arbeitslosenquote Jüngere,6.95,Arbeitslosenquote Jüngere.2
+9565,Schwabach,2012,Arbeitslosenquote Jüngere,3.73,Arbeitslosenquote Jüngere.2
+9572,Erlangen-Höchstadt,2012,Arbeitslosenquote Jüngere,2.19,Arbeitslosenquote Jüngere.2
+9573,Fürth,2012,Arbeitslosenquote Jüngere,3.04,Arbeitslosenquote Jüngere.2
+9574,Nürnberger Land,2012,Arbeitslosenquote Jüngere,2.68,Arbeitslosenquote Jüngere.2
+9461,"Bamberg, Stadt",2013,Arbeitslosenquote Jüngere,3.6,Arbeitslosenquote Jüngere.3
+9462,"Bayreuth, Stadt",2013,Arbeitslosenquote Jüngere,4.0,Arbeitslosenquote Jüngere.3
+9471,Bamberg,2013,Arbeitslosenquote Jüngere,2.7,Arbeitslosenquote Jüngere.3
+9472,Bayreuth,2013,Arbeitslosenquote Jüngere,3.1,Arbeitslosenquote Jüngere.3
+9474,Forchheim,2013,Arbeitslosenquote Jüngere,3.0,Arbeitslosenquote Jüngere.3
+9562,Erlangen,2013,Arbeitslosenquote Jüngere,3.1,Arbeitslosenquote Jüngere.3
+9563,"Fürth, Stadt",2013,Arbeitslosenquote Jüngere,6.1,Arbeitslosenquote Jüngere.3
+9564,Nürnberg,2013,Arbeitslosenquote Jüngere,7.0,Arbeitslosenquote Jüngere.3
+9565,Schwabach,2013,Arbeitslosenquote Jüngere,4.7,Arbeitslosenquote Jüngere.3
+9572,Erlangen-Höchstadt,2013,Arbeitslosenquote Jüngere,2.3,Arbeitslosenquote Jüngere.3
+9573,Fürth,2013,Arbeitslosenquote Jüngere,2.9,Arbeitslosenquote Jüngere.3
+9574,Nürnberger Land,2013,Arbeitslosenquote Jüngere,3.2,Arbeitslosenquote Jüngere.3
+9461,"Bamberg, Stadt",2014,Arbeitslosenquote Jüngere,3.82,Arbeitslosenquote Jüngere.4
+9462,"Bayreuth, Stadt",2014,Arbeitslosenquote Jüngere,3.92,Arbeitslosenquote Jüngere.4
+9471,Bamberg,2014,Arbeitslosenquote Jüngere,2.79,Arbeitslosenquote Jüngere.4
+9472,Bayreuth,2014,Arbeitslosenquote Jüngere,2.83,Arbeitslosenquote Jüngere.4
+9474,Forchheim,2014,Arbeitslosenquote Jüngere,2.85,Arbeitslosenquote Jüngere.4
+9562,Erlangen,2014,Arbeitslosenquote Jüngere,3.16,Arbeitslosenquote Jüngere.4
+9563,"Fürth, Stadt",2014,Arbeitslosenquote Jüngere,6.13,Arbeitslosenquote Jüngere.4
+9564,Nürnberg,2014,Arbeitslosenquote Jüngere,7.05,Arbeitslosenquote Jüngere.4
+9565,Schwabach,2014,Arbeitslosenquote Jüngere,4.38,Arbeitslosenquote Jüngere.4
+9572,Erlangen-Höchstadt,2014,Arbeitslosenquote Jüngere,2.18,Arbeitslosenquote Jüngere.4
+9573,Fürth,2014,Arbeitslosenquote Jüngere,2.87,Arbeitslosenquote Jüngere.4
+9574,Nürnberger Land,2014,Arbeitslosenquote Jüngere,3.22,Arbeitslosenquote Jüngere.4
+9461,"Bamberg, Stadt",2015,Arbeitslosenquote Jüngere,3.43,Arbeitslosenquote Jüngere.5
+9462,"Bayreuth, Stadt",2015,Arbeitslosenquote Jüngere,3.78,Arbeitslosenquote Jüngere.5
+9471,Bamberg,2015,Arbeitslosenquote Jüngere,2.58,Arbeitslosenquote Jüngere.5
+9472,Bayreuth,2015,Arbeitslosenquote Jüngere,2.7,Arbeitslosenquote Jüngere.5
+9474,Forchheim,2015,Arbeitslosenquote Jüngere,2.68,Arbeitslosenquote Jüngere.5
+9562,Erlangen,2015,Arbeitslosenquote Jüngere,3.13,Arbeitslosenquote Jüngere.5
+9563,"Fürth, Stadt",2015,Arbeitslosenquote Jüngere,6.18,Arbeitslosenquote Jüngere.5
+9564,Nürnberg,2015,Arbeitslosenquote Jüngere,6.57,Arbeitslosenquote Jüngere.5
+9565,Schwabach,2015,Arbeitslosenquote Jüngere,4.59,Arbeitslosenquote Jüngere.5
+9572,Erlangen-Höchstadt,2015,Arbeitslosenquote Jüngere,2.13,Arbeitslosenquote Jüngere.5
+9573,Fürth,2015,Arbeitslosenquote Jüngere,2.82,Arbeitslosenquote Jüngere.5
+9574,Nürnberger Land,2015,Arbeitslosenquote Jüngere,3.01,Arbeitslosenquote Jüngere.5
+9461,"Bamberg, Stadt",2016,Arbeitslosenquote Jüngere,3.65,Arbeitslosenquote Jüngere.6
+9462,"Bayreuth, Stadt",2016,Arbeitslosenquote Jüngere,3.33,Arbeitslosenquote Jüngere.6
+9471,Bamberg,2016,Arbeitslosenquote Jüngere,2.69,Arbeitslosenquote Jüngere.6
+9472,Bayreuth,2016,Arbeitslosenquote Jüngere,2.96,Arbeitslosenquote Jüngere.6
+9474,Forchheim,2016,Arbeitslosenquote Jüngere,2.68,Arbeitslosenquote Jüngere.6
+9562,Erlangen,2016,Arbeitslosenquote Jüngere,3.19,Arbeitslosenquote Jüngere.6
+9563,"Fürth, Stadt",2016,Arbeitslosenquote Jüngere,5.61,Arbeitslosenquote Jüngere.6
+9564,Nürnberg,2016,Arbeitslosenquote Jüngere,6.03,Arbeitslosenquote Jüngere.6
+9565,Schwabach,2016,Arbeitslosenquote Jüngere,4.14,Arbeitslosenquote Jüngere.6
+9572,Erlangen-Höchstadt,2016,Arbeitslosenquote Jüngere,2.64,Arbeitslosenquote Jüngere.6
+9573,Fürth,2016,Arbeitslosenquote Jüngere,2.57,Arbeitslosenquote Jüngere.6
+9574,Nürnberger Land,2016,Arbeitslosenquote Jüngere,2.82,Arbeitslosenquote Jüngere.6
+9461,"Bamberg, Stadt",2017,Arbeitslosenquote Jüngere,4.16,Arbeitslosenquote Jüngere.7
+9462,"Bayreuth, Stadt",2017,Arbeitslosenquote Jüngere,3.67,Arbeitslosenquote Jüngere.7
+9471,Bamberg,2017,Arbeitslosenquote Jüngere,2.42,Arbeitslosenquote Jüngere.7
+9472,Bayreuth,2017,Arbeitslosenquote Jüngere,2.48,Arbeitslosenquote Jüngere.7
+9474,Forchheim,2017,Arbeitslosenquote Jüngere,2.35,Arbeitslosenquote Jüngere.7
+9562,Erlangen,2017,Arbeitslosenquote Jüngere,3.51,Arbeitslosenquote Jüngere.7
+9563,"Fürth, Stadt",2017,Arbeitslosenquote Jüngere,4.91,Arbeitslosenquote Jüngere.7
+9564,Nürnberg,2017,Arbeitslosenquote Jüngere,5.52,Arbeitslosenquote Jüngere.7
+9565,Schwabach,2017,Arbeitslosenquote Jüngere,3.99,Arbeitslosenquote Jüngere.7
+9572,Erlangen-Höchstadt,2017,Arbeitslosenquote Jüngere,2.05,Arbeitslosenquote Jüngere.7
+9573,Fürth,2017,Arbeitslosenquote Jüngere,2.05,Arbeitslosenquote Jüngere.7
+9574,Nürnberger Land,2017,Arbeitslosenquote Jüngere,2.64,Arbeitslosenquote Jüngere.7
+9461,"Bamberg, Stadt",2018,Arbeitslosenquote Jüngere,3.58,Arbeitslosenquote Jüngere.8
+9462,"Bayreuth, Stadt",2018,Arbeitslosenquote Jüngere,3.46,Arbeitslosenquote Jüngere.8
+9471,Bamberg,2018,Arbeitslosenquote Jüngere,2.15,Arbeitslosenquote Jüngere.8
+9472,Bayreuth,2018,Arbeitslosenquote Jüngere,2.01,Arbeitslosenquote Jüngere.8
+9474,Forchheim,2018,Arbeitslosenquote Jüngere,2.13,Arbeitslosenquote Jüngere.8
+9562,Erlangen,2018,Arbeitslosenquote Jüngere,3.22,Arbeitslosenquote Jüngere.8
+9563,"Fürth, Stadt",2018,Arbeitslosenquote Jüngere,4.89,Arbeitslosenquote Jüngere.8
+9564,Nürnberg,2018,Arbeitslosenquote Jüngere,5.08,Arbeitslosenquote Jüngere.8
+9565,Schwabach,2018,Arbeitslosenquote Jüngere,3.04,Arbeitslosenquote Jüngere.8
+9572,Erlangen-Höchstadt,2018,Arbeitslosenquote Jüngere,1.85,Arbeitslosenquote Jüngere.8
+9573,Fürth,2018,Arbeitslosenquote Jüngere,1.98,Arbeitslosenquote Jüngere.8
+9574,Nürnberger Land,2018,Arbeitslosenquote Jüngere,2.48,Arbeitslosenquote Jüngere.8
+9461,"Bamberg, Stadt",2019,Arbeitslosenquote Jüngere,3.01,Arbeitslosenquote Jüngere.9
+9462,"Bayreuth, Stadt",2019,Arbeitslosenquote Jüngere,3.36,Arbeitslosenquote Jüngere.9
+9471,Bamberg,2019,Arbeitslosenquote Jüngere,2.29,Arbeitslosenquote Jüngere.9
+9472,Bayreuth,2019,Arbeitslosenquote Jüngere,2.22,Arbeitslosenquote Jüngere.9
+9474,Forchheim,2019,Arbeitslosenquote Jüngere,2.08,Arbeitslosenquote Jüngere.9
+9562,Erlangen,2019,Arbeitslosenquote Jüngere,2.89,Arbeitslosenquote Jüngere.9
+9563,"Fürth, Stadt",2019,Arbeitslosenquote Jüngere,5.15,Arbeitslosenquote Jüngere.9
+9564,Nürnberg,2019,Arbeitslosenquote Jüngere,4.74,Arbeitslosenquote Jüngere.9
+9565,Schwabach,2019,Arbeitslosenquote Jüngere,3.7,Arbeitslosenquote Jüngere.9
+9572,Erlangen-Höchstadt,2019,Arbeitslosenquote Jüngere,1.87,Arbeitslosenquote Jüngere.9
+9573,Fürth,2019,Arbeitslosenquote Jüngere,2.36,Arbeitslosenquote Jüngere.9
+9574,Nürnberger Land,2019,Arbeitslosenquote Jüngere,2.37,Arbeitslosenquote Jüngere.9
+9461,"Bamberg, Stadt",2020,Arbeitslosenquote Jüngere,3.75,Arbeitslosenquote Jüngere.10
+9462,"Bayreuth, Stadt",2020,Arbeitslosenquote Jüngere,4.05,Arbeitslosenquote Jüngere.10
+9471,Bamberg,2020,Arbeitslosenquote Jüngere,2.71,Arbeitslosenquote Jüngere.10
+9472,Bayreuth,2020,Arbeitslosenquote Jüngere,2.74,Arbeitslosenquote Jüngere.10
+9474,Forchheim,2020,Arbeitslosenquote Jüngere,2.82,Arbeitslosenquote Jüngere.10
+9562,Erlangen,2020,Arbeitslosenquote Jüngere,2.82,Arbeitslosenquote Jüngere.10
+9563,"Fürth, Stadt",2020,Arbeitslosenquote Jüngere,6.03,Arbeitslosenquote Jüngere.10
+9564,Nürnberg,2020,Arbeitslosenquote Jüngere,6.03,Arbeitslosenquote Jüngere.10
+9565,Schwabach,2020,Arbeitslosenquote Jüngere,4.58,Arbeitslosenquote Jüngere.10
+9572,Erlangen-Höchstadt,2020,Arbeitslosenquote Jüngere,2.39,Arbeitslosenquote Jüngere.10
+9573,Fürth,2020,Arbeitslosenquote Jüngere,3.07,Arbeitslosenquote Jüngere.10
+9574,Nürnberger Land,2020,Arbeitslosenquote Jüngere,3.2,Arbeitslosenquote Jüngere.10
+9461,"Bamberg, Stadt",2021,Arbeitslosenquote Jüngere,3.96,Arbeitslosenquote Jüngere.11
+9462,"Bayreuth, Stadt",2021,Arbeitslosenquote Jüngere,3.08,Arbeitslosenquote Jüngere.11
+9471,Bamberg,2021,Arbeitslosenquote Jüngere,2.39,Arbeitslosenquote Jüngere.11
+9472,Bayreuth,2021,Arbeitslosenquote Jüngere,2.04,Arbeitslosenquote Jüngere.11
+9474,Forchheim,2021,Arbeitslosenquote Jüngere,2.42,Arbeitslosenquote Jüngere.11
+9562,Erlangen,2021,Arbeitslosenquote Jüngere,2.75,Arbeitslosenquote Jüngere.11
+9563,"Fürth, Stadt",2021,Arbeitslosenquote Jüngere,5.01,Arbeitslosenquote Jüngere.11
+9564,Nürnberg,2021,Arbeitslosenquote Jüngere,5.36,Arbeitslosenquote Jüngere.11
+9565,Schwabach,2021,Arbeitslosenquote Jüngere,3.7,Arbeitslosenquote Jüngere.11
+9572,Erlangen-Höchstadt,2021,Arbeitslosenquote Jüngere,2.08,Arbeitslosenquote Jüngere.11
+9573,Fürth,2021,Arbeitslosenquote Jüngere,2.58,Arbeitslosenquote Jüngere.11
+9574,Nürnberger Land,2021,Arbeitslosenquote Jüngere,2.46,Arbeitslosenquote Jüngere.11
+9461,"Bamberg, Stadt",2022,Arbeitslosenquote Jüngere,3.19,Arbeitslosenquote Jüngere.12
+9462,"Bayreuth, Stadt",2022,Arbeitslosenquote Jüngere,3.33,Arbeitslosenquote Jüngere.12
+9471,Bamberg,2022,Arbeitslosenquote Jüngere,1.98,Arbeitslosenquote Jüngere.12
+9472,Bayreuth,2022,Arbeitslosenquote Jüngere,2.23,Arbeitslosenquote Jüngere.12
+9474,Forchheim,2022,Arbeitslosenquote Jüngere,1.88,Arbeitslosenquote Jüngere.12
+9562,Erlangen,2022,Arbeitslosenquote Jüngere,2.42,Arbeitslosenquote Jüngere.12
+9563,"Fürth, Stadt",2022,Arbeitslosenquote Jüngere,4.37,Arbeitslosenquote Jüngere.12
+9564,Nürnberg,2022,Arbeitslosenquote Jüngere,4.64,Arbeitslosenquote Jüngere.12
+9565,Schwabach,2022,Arbeitslosenquote Jüngere,2.88,Arbeitslosenquote Jüngere.12
+9572,Erlangen-Höchstadt,2022,Arbeitslosenquote Jüngere,1.77,Arbeitslosenquote Jüngere.12
+9573,Fürth,2022,Arbeitslosenquote Jüngere,2.13,Arbeitslosenquote Jüngere.12
+9574,Nürnberger Land,2022,Arbeitslosenquote Jüngere,2.23,Arbeitslosenquote Jüngere.12
+9461,"Bamberg, Stadt",2023,Arbeitslosenquote Jüngere,3.27,Arbeitslosenquote Jüngere.13
+9462,"Bayreuth, Stadt",2023,Arbeitslosenquote Jüngere,3.35,Arbeitslosenquote Jüngere.13
+9471,Bamberg,2023,Arbeitslosenquote Jüngere,2.07,Arbeitslosenquote Jüngere.13
+9472,Bayreuth,2023,Arbeitslosenquote Jüngere,2.62,Arbeitslosenquote Jüngere.13
+9474,Forchheim,2023,Arbeitslosenquote Jüngere,2.28,Arbeitslosenquote Jüngere.13
+9562,Erlangen,2023,Arbeitslosenquote Jüngere,3.15,Arbeitslosenquote Jüngere.13
+9563,"Fürth, Stadt",2023,Arbeitslosenquote Jüngere,4.39,Arbeitslosenquote Jüngere.13
+9564,Nürnberg,2023,Arbeitslosenquote Jüngere,5.09,Arbeitslosenquote Jüngere.13
+9565,Schwabach,2023,Arbeitslosenquote Jüngere,3.29,Arbeitslosenquote Jüngere.13
+9572,Erlangen-Höchstadt,2023,Arbeitslosenquote Jüngere,2.39,Arbeitslosenquote Jüngere.13
+9573,Fürth,2023,Arbeitslosenquote Jüngere,2.3,Arbeitslosenquote Jüngere.13
+9574,Nürnberger Land,2023,Arbeitslosenquote Jüngere,2.67,Arbeitslosenquote Jüngere.13
+9461,"Bamberg, Stadt",2010,Anteil jüngere Arbeitslose,9.68,Anteil jüngere Arbeitslose
+9462,"Bayreuth, Stadt",2010,Anteil jüngere Arbeitslose,9.13,Anteil jüngere Arbeitslose
+9471,Bamberg,2010,Anteil jüngere Arbeitslose,10.27,Anteil jüngere Arbeitslose
+9472,Bayreuth,2010,Anteil jüngere Arbeitslose,9.68,Anteil jüngere Arbeitslose
+9474,Forchheim,2010,Anteil jüngere Arbeitslose,11.87,Anteil jüngere Arbeitslose
+9562,Erlangen,2010,Anteil jüngere Arbeitslose,8.69,Anteil jüngere Arbeitslose
+9563,"Fürth, Stadt",2010,Anteil jüngere Arbeitslose,10.11,Anteil jüngere Arbeitslose
+9564,Nürnberg,2010,Anteil jüngere Arbeitslose,10.1,Anteil jüngere Arbeitslose
+9565,Schwabach,2010,Anteil jüngere Arbeitslose,9.62,Anteil jüngere Arbeitslose
+9572,Erlangen-Höchstadt,2010,Anteil jüngere Arbeitslose,10.12,Anteil jüngere Arbeitslose
+9573,Fürth,2010,Anteil jüngere Arbeitslose,10.18,Anteil jüngere Arbeitslose
+9574,Nürnberger Land,2010,Anteil jüngere Arbeitslose,11.02,Anteil jüngere Arbeitslose
+9461,"Bamberg, Stadt",2011,Anteil jüngere Arbeitslose,9.53,Anteil jüngere Arbeitslose.1
+9462,"Bayreuth, Stadt",2011,Anteil jüngere Arbeitslose,8.62,Anteil jüngere Arbeitslose.1
+9471,Bamberg,2011,Anteil jüngere Arbeitslose,9.48,Anteil jüngere Arbeitslose.1
+9472,Bayreuth,2011,Anteil jüngere Arbeitslose,9.68,Anteil jüngere Arbeitslose.1
+9474,Forchheim,2011,Anteil jüngere Arbeitslose,12.04,Anteil jüngere Arbeitslose.1
+9562,Erlangen,2011,Anteil jüngere Arbeitslose,8.91,Anteil jüngere Arbeitslose.1
+9563,"Fürth, Stadt",2011,Anteil jüngere Arbeitslose,10.37,Anteil jüngere Arbeitslose.1
+9564,Nürnberg,2011,Anteil jüngere Arbeitslose,10.13,Anteil jüngere Arbeitslose.1
+9565,Schwabach,2011,Anteil jüngere Arbeitslose,8.19,Anteil jüngere Arbeitslose.1
+9572,Erlangen-Höchstadt,2011,Anteil jüngere Arbeitslose,9.75,Anteil jüngere Arbeitslose.1
+9573,Fürth,2011,Anteil jüngere Arbeitslose,10.3,Anteil jüngere Arbeitslose.1
+9574,Nürnberger Land,2011,Anteil jüngere Arbeitslose,10.87,Anteil jüngere Arbeitslose.1
+9461,"Bamberg, Stadt",2012,Anteil jüngere Arbeitslose,8.45,Anteil jüngere Arbeitslose.2
+9462,"Bayreuth, Stadt",2012,Anteil jüngere Arbeitslose,7.8,Anteil jüngere Arbeitslose.2
+9471,Bamberg,2012,Anteil jüngere Arbeitslose,10.54,Anteil jüngere Arbeitslose.2
+9472,Bayreuth,2012,Anteil jüngere Arbeitslose,10.06,Anteil jüngere Arbeitslose.2
+9474,Forchheim,2012,Anteil jüngere Arbeitslose,11.51,Anteil jüngere Arbeitslose.2
+9562,Erlangen,2012,Anteil jüngere Arbeitslose,9.18,Anteil jüngere Arbeitslose.2
+9563,"Fürth, Stadt",2012,Anteil jüngere Arbeitslose,10.6,Anteil jüngere Arbeitslose.2
+9564,Nürnberg,2012,Anteil jüngere Arbeitslose,9.76,Anteil jüngere Arbeitslose.2
+9565,Schwabach,2012,Anteil jüngere Arbeitslose,9.2,Anteil jüngere Arbeitslose.2
+9572,Erlangen-Höchstadt,2012,Anteil jüngere Arbeitslose,10.77,Anteil jüngere Arbeitslose.2
+9573,Fürth,2012,Anteil jüngere Arbeitslose,10.07,Anteil jüngere Arbeitslose.2
+9574,Nürnberger Land,2012,Anteil jüngere Arbeitslose,10.37,Anteil jüngere Arbeitslose.2
+9461,"Bamberg, Stadt",2013,Anteil jüngere Arbeitslose,8.93,Anteil jüngere Arbeitslose.3
+9462,"Bayreuth, Stadt",2013,Anteil jüngere Arbeitslose,7.8,Anteil jüngere Arbeitslose.3
+9471,Bamberg,2013,Anteil jüngere Arbeitslose,11.48,Anteil jüngere Arbeitslose.3
+9472,Bayreuth,2013,Anteil jüngere Arbeitslose,10.01,Anteil jüngere Arbeitslose.3
+9474,Forchheim,2013,Anteil jüngere Arbeitslose,11.45,Anteil jüngere Arbeitslose.3
+9562,Erlangen,2013,Anteil jüngere Arbeitslose,8.4,Anteil jüngere Arbeitslose.3
+9563,"Fürth, Stadt",2013,Anteil jüngere Arbeitslose,9.76,Anteil jüngere Arbeitslose.3
+9564,Nürnberg,2013,Anteil jüngere Arbeitslose,9.86,Anteil jüngere Arbeitslose.3
+9565,Schwabach,2013,Anteil jüngere Arbeitslose,11.15,Anteil jüngere Arbeitslose.3
+9572,Erlangen-Höchstadt,2013,Anteil jüngere Arbeitslose,10.67,Anteil jüngere Arbeitslose.3
+9573,Fürth,2013,Anteil jüngere Arbeitslose,9.25,Anteil jüngere Arbeitslose.3
+9574,Nürnberger Land,2013,Anteil jüngere Arbeitslose,11.37,Anteil jüngere Arbeitslose.3
+9461,"Bamberg, Stadt",2014,Anteil jüngere Arbeitslose,9.72,Anteil jüngere Arbeitslose.4
+9462,"Bayreuth, Stadt",2014,Anteil jüngere Arbeitslose,8.01,Anteil jüngere Arbeitslose.4
+9471,Bamberg,2014,Anteil jüngere Arbeitslose,11.61,Anteil jüngere Arbeitslose.4
+9472,Bayreuth,2014,Anteil jüngere Arbeitslose,8.94,Anteil jüngere Arbeitslose.4
+9474,Forchheim,2014,Anteil jüngere Arbeitslose,11.37,Anteil jüngere Arbeitslose.4
+9562,Erlangen,2014,Anteil jüngere Arbeitslose,8.62,Anteil jüngere Arbeitslose.4
+9563,"Fürth, Stadt",2014,Anteil jüngere Arbeitslose,9.69,Anteil jüngere Arbeitslose.4
+9564,Nürnberg,2014,Anteil jüngere Arbeitslose,9.98,Anteil jüngere Arbeitslose.4
+9565,Schwabach,2014,Anteil jüngere Arbeitslose,11.37,Anteil jüngere Arbeitslose.4
+9572,Erlangen-Höchstadt,2014,Anteil jüngere Arbeitslose,10.12,Anteil jüngere Arbeitslose.4
+9573,Fürth,2014,Anteil jüngere Arbeitslose,9.2,Anteil jüngere Arbeitslose.4
+9574,Nürnberger Land,2014,Anteil jüngere Arbeitslose,11.36,Anteil jüngere Arbeitslose.4
+9461,"Bamberg, Stadt",2015,Anteil jüngere Arbeitslose,8.82,Anteil jüngere Arbeitslose.5
+9462,"Bayreuth, Stadt",2015,Anteil jüngere Arbeitslose,8.24,Anteil jüngere Arbeitslose.5
+9471,Bamberg,2015,Anteil jüngere Arbeitslose,11.66,Anteil jüngere Arbeitslose.5
+9472,Bayreuth,2015,Anteil jüngere Arbeitslose,9.0,Anteil jüngere Arbeitslose.5
+9474,Forchheim,2015,Anteil jüngere Arbeitslose,10.72,Anteil jüngere Arbeitslose.5
+9562,Erlangen,2015,Anteil jüngere Arbeitslose,9.01,Anteil jüngere Arbeitslose.5
+9563,"Fürth, Stadt",2015,Anteil jüngere Arbeitslose,9.98,Anteil jüngere Arbeitslose.5
+9564,Nürnberg,2015,Anteil jüngere Arbeitslose,9.78,Anteil jüngere Arbeitslose.5
+9565,Schwabach,2015,Anteil jüngere Arbeitslose,12.06,Anteil jüngere Arbeitslose.5
+9572,Erlangen-Höchstadt,2015,Anteil jüngere Arbeitslose,9.66,Anteil jüngere Arbeitslose.5
+9573,Fürth,2015,Anteil jüngere Arbeitslose,9.53,Anteil jüngere Arbeitslose.5
+9574,Nürnberger Land,2015,Anteil jüngere Arbeitslose,11.36,Anteil jüngere Arbeitslose.5
+9461,"Bamberg, Stadt",2016,Anteil jüngere Arbeitslose,9.57,Anteil jüngere Arbeitslose.6
+9462,"Bayreuth, Stadt",2016,Anteil jüngere Arbeitslose,7.88,Anteil jüngere Arbeitslose.6
+9471,Bamberg,2016,Anteil jüngere Arbeitslose,12.68,Anteil jüngere Arbeitslose.6
+9472,Bayreuth,2016,Anteil jüngere Arbeitslose,9.97,Anteil jüngere Arbeitslose.6
+9474,Forchheim,2016,Anteil jüngere Arbeitslose,10.55,Anteil jüngere Arbeitslose.6
+9562,Erlangen,2016,Anteil jüngere Arbeitslose,9.36,Anteil jüngere Arbeitslose.6
+9563,"Fürth, Stadt",2016,Anteil jüngere Arbeitslose,10.02,Anteil jüngere Arbeitslose.6
+9564,Nürnberg,2016,Anteil jüngere Arbeitslose,9.6,Anteil jüngere Arbeitslose.6
+9565,Schwabach,2016,Anteil jüngere Arbeitslose,11.82,Anteil jüngere Arbeitslose.6
+9572,Erlangen-Höchstadt,2016,Anteil jüngere Arbeitslose,11.83,Anteil jüngere Arbeitslose.6
+9573,Fürth,2016,Anteil jüngere Arbeitslose,8.67,Anteil jüngere Arbeitslose.6
+9574,Nürnberger Land,2016,Anteil jüngere Arbeitslose,10.99,Anteil jüngere Arbeitslose.6
+9461,"Bamberg, Stadt",2017,Anteil jüngere Arbeitslose,11.05,Anteil jüngere Arbeitslose.7
+9462,"Bayreuth, Stadt",2017,Anteil jüngere Arbeitslose,9.39,Anteil jüngere Arbeitslose.7
+9471,Bamberg,2017,Anteil jüngere Arbeitslose,11.97,Anteil jüngere Arbeitslose.7
+9472,Bayreuth,2017,Anteil jüngere Arbeitslose,8.95,Anteil jüngere Arbeitslose.7
+9474,Forchheim,2017,Anteil jüngere Arbeitslose,9.69,Anteil jüngere Arbeitslose.7
+9562,Erlangen,2017,Anteil jüngere Arbeitslose,10.32,Anteil jüngere Arbeitslose.7
+9563,"Fürth, Stadt",2017,Anteil jüngere Arbeitslose,9.69,Anteil jüngere Arbeitslose.7
+9564,Nürnberg,2017,Anteil jüngere Arbeitslose,9.51,Anteil jüngere Arbeitslose.7
+9565,Schwabach,2017,Anteil jüngere Arbeitslose,11.87,Anteil jüngere Arbeitslose.7
+9572,Erlangen-Höchstadt,2017,Anteil jüngere Arbeitslose,10.41,Anteil jüngere Arbeitslose.7
+9573,Fürth,2017,Anteil jüngere Arbeitslose,7.52,Anteil jüngere Arbeitslose.7
+9574,Nürnberger Land,2017,Anteil jüngere Arbeitslose,10.74,Anteil jüngere Arbeitslose.7
+9461,"Bamberg, Stadt",2018,Anteil jüngere Arbeitslose,10.57,Anteil jüngere Arbeitslose.8
+9462,"Bayreuth, Stadt",2018,Anteil jüngere Arbeitslose,9.94,Anteil jüngere Arbeitslose.8
+9471,Bamberg,2018,Anteil jüngere Arbeitslose,11.63,Anteil jüngere Arbeitslose.8
+9472,Bayreuth,2018,Anteil jüngere Arbeitslose,7.76,Anteil jüngere Arbeitslose.8
+9474,Forchheim,2018,Anteil jüngere Arbeitslose,9.39,Anteil jüngere Arbeitslose.8
+9562,Erlangen,2018,Anteil jüngere Arbeitslose,10.2,Anteil jüngere Arbeitslose.8
+9563,"Fürth, Stadt",2018,Anteil jüngere Arbeitslose,10.42,Anteil jüngere Arbeitslose.8
+9564,Nürnberg,2018,Anteil jüngere Arbeitslose,9.6,Anteil jüngere Arbeitslose.8
+9565,Schwabach,2018,Anteil jüngere Arbeitslose,9.6,Anteil jüngere Arbeitslose.8
+9572,Erlangen-Höchstadt,2018,Anteil jüngere Arbeitslose,9.81,Anteil jüngere Arbeitslose.8
+9573,Fürth,2018,Anteil jüngere Arbeitslose,7.8,Anteil jüngere Arbeitslose.8
+9574,Nürnberger Land,2018,Anteil jüngere Arbeitslose,10.57,Anteil jüngere Arbeitslose.8
+9461,"Bamberg, Stadt",2019,Anteil jüngere Arbeitslose,9.51,Anteil jüngere Arbeitslose.9
+9462,"Bayreuth, Stadt",2019,Anteil jüngere Arbeitslose,10.7,Anteil jüngere Arbeitslose.9
+9471,Bamberg,2019,Anteil jüngere Arbeitslose,12.3,Anteil jüngere Arbeitslose.9
+9472,Bayreuth,2019,Anteil jüngere Arbeitslose,9.07,Anteil jüngere Arbeitslose.9
+9474,Forchheim,2019,Anteil jüngere Arbeitslose,9.55,Anteil jüngere Arbeitslose.9
+9562,Erlangen,2019,Anteil jüngere Arbeitslose,9.8,Anteil jüngere Arbeitslose.9
+9563,"Fürth, Stadt",2019,Anteil jüngere Arbeitslose,11.04,Anteil jüngere Arbeitslose.9
+9564,Nürnberg,2019,Anteil jüngere Arbeitslose,9.45,Anteil jüngere Arbeitslose.9
+9565,Schwabach,2019,Anteil jüngere Arbeitslose,12.05,Anteil jüngere Arbeitslose.9
+9572,Erlangen-Höchstadt,2019,Anteil jüngere Arbeitslose,10.35,Anteil jüngere Arbeitslose.9
+9573,Fürth,2019,Anteil jüngere Arbeitslose,9.39,Anteil jüngere Arbeitslose.9
+9574,Nürnberger Land,2019,Anteil jüngere Arbeitslose,10.46,Anteil jüngere Arbeitslose.9
+9461,"Bamberg, Stadt",2020,Anteil jüngere Arbeitslose,9.89,Anteil jüngere Arbeitslose.10
+9462,"Bayreuth, Stadt",2020,Anteil jüngere Arbeitslose,10.77,Anteil jüngere Arbeitslose.10
+9471,Bamberg,2020,Anteil jüngere Arbeitslose,11.18,Anteil jüngere Arbeitslose.10
+9472,Bayreuth,2020,Anteil jüngere Arbeitslose,9.07,Anteil jüngere Arbeitslose.10
+9474,Forchheim,2020,Anteil jüngere Arbeitslose,10.47,Anteil jüngere Arbeitslose.10
+9562,Erlangen,2020,Anteil jüngere Arbeitslose,8.38,Anteil jüngere Arbeitslose.10
+9563,"Fürth, Stadt",2020,Anteil jüngere Arbeitslose,10.91,Anteil jüngere Arbeitslose.10
+9564,Nürnberg,2020,Anteil jüngere Arbeitslose,9.95,Anteil jüngere Arbeitslose.10
+9565,Schwabach,2020,Anteil jüngere Arbeitslose,11.68,Anteil jüngere Arbeitslose.10
+9572,Erlangen-Höchstadt,2020,Anteil jüngere Arbeitslose,9.79,Anteil jüngere Arbeitslose.10
+9573,Fürth,2020,Anteil jüngere Arbeitslose,9.56,Anteil jüngere Arbeitslose.10
+9574,Nürnberger Land,2020,Anteil jüngere Arbeitslose,11.01,Anteil jüngere Arbeitslose.10
+9461,"Bamberg, Stadt",2021,Anteil jüngere Arbeitslose,9.94,Anteil jüngere Arbeitslose.11
+9462,"Bayreuth, Stadt",2021,Anteil jüngere Arbeitslose,9.25,Anteil jüngere Arbeitslose.11
+9471,Bamberg,2021,Anteil jüngere Arbeitslose,9.79,Anteil jüngere Arbeitslose.11
+9472,Bayreuth,2021,Anteil jüngere Arbeitslose,7.36,Anteil jüngere Arbeitslose.11
+9474,Forchheim,2021,Anteil jüngere Arbeitslose,8.79,Anteil jüngere Arbeitslose.11
+9562,Erlangen,2021,Anteil jüngere Arbeitslose,7.86,Anteil jüngere Arbeitslose.11
+9563,"Fürth, Stadt",2021,Anteil jüngere Arbeitslose,9.08,Anteil jüngere Arbeitslose.11
+9564,Nürnberg,2021,Anteil jüngere Arbeitslose,8.94,Anteil jüngere Arbeitslose.11
+9565,Schwabach,2021,Anteil jüngere Arbeitslose,10.01,Anteil jüngere Arbeitslose.11
+9572,Erlangen-Höchstadt,2021,Anteil jüngere Arbeitslose,8.36,Anteil jüngere Arbeitslose.11
+9573,Fürth,2021,Anteil jüngere Arbeitslose,7.95,Anteil jüngere Arbeitslose.11
+9574,Nürnberger Land,2021,Anteil jüngere Arbeitslose,9.09,Anteil jüngere Arbeitslose.11
+9461,"Bamberg, Stadt",2022,Anteil jüngere Arbeitslose,8.21,Anteil jüngere Arbeitslose.12
+9462,"Bayreuth, Stadt",2022,Anteil jüngere Arbeitslose,9.95,Anteil jüngere Arbeitslose.12
+9471,Bamberg,2022,Anteil jüngere Arbeitslose,9.08,Anteil jüngere Arbeitslose.12
+9472,Bayreuth,2022,Anteil jüngere Arbeitslose,7.97,Anteil jüngere Arbeitslose.12
+9474,Forchheim,2022,Anteil jüngere Arbeitslose,7.44,Anteil jüngere Arbeitslose.12
+9562,Erlangen,2022,Anteil jüngere Arbeitslose,7.74,Anteil jüngere Arbeitslose.12
+9563,"Fürth, Stadt",2022,Anteil jüngere Arbeitslose,8.76,Anteil jüngere Arbeitslose.12
+9564,Nürnberg,2022,Anteil jüngere Arbeitslose,8.48,Anteil jüngere Arbeitslose.12
+9565,Schwabach,2022,Anteil jüngere Arbeitslose,8.85,Anteil jüngere Arbeitslose.12
+9572,Erlangen-Höchstadt,2022,Anteil jüngere Arbeitslose,7.26,Anteil jüngere Arbeitslose.12
+9573,Fürth,2022,Anteil jüngere Arbeitslose,7.78,Anteil jüngere Arbeitslose.12
+9574,Nürnberger Land,2022,Anteil jüngere Arbeitslose,9.21,Anteil jüngere Arbeitslose.12
+9461,"Bamberg, Stadt",2023,Anteil jüngere Arbeitslose,8.33,Anteil jüngere Arbeitslose.13
+9462,"Bayreuth, Stadt",2023,Anteil jüngere Arbeitslose,9.42,Anteil jüngere Arbeitslose.13
+9471,Bamberg,2023,Anteil jüngere Arbeitslose,8.69,Anteil jüngere Arbeitslose.13
+9472,Bayreuth,2023,Anteil jüngere Arbeitslose,8.65,Anteil jüngere Arbeitslose.13
+9474,Forchheim,2023,Anteil jüngere Arbeitslose,8.15,Anteil jüngere Arbeitslose.13
+9562,Erlangen,2023,Anteil jüngere Arbeitslose,9.18,Anteil jüngere Arbeitslose.13
+9563,"Fürth, Stadt",2023,Anteil jüngere Arbeitslose,8.45,Anteil jüngere Arbeitslose.13
+9564,Nürnberg,2023,Anteil jüngere Arbeitslose,8.75,Anteil jüngere Arbeitslose.13
+9565,Schwabach,2023,Anteil jüngere Arbeitslose,9.55,Anteil jüngere Arbeitslose.13
+9572,Erlangen-Höchstadt,2023,Anteil jüngere Arbeitslose,8.92,Anteil jüngere Arbeitslose.13
+9573,Fürth,2023,Anteil jüngere Arbeitslose,8.02,Anteil jüngere Arbeitslose.13
+9574,Nürnberger Land,2023,Anteil jüngere Arbeitslose,10.22,Anteil jüngere Arbeitslose.13
+9461,"Bamberg, Stadt",2010,Jüngere Arbeitslose,2.37,Jüngere Arbeitslose
+9462,"Bayreuth, Stadt",2010,Jüngere Arbeitslose,2.12,Jüngere Arbeitslose
+9471,Bamberg,2010,Jüngere Arbeitslose,1.71,Jüngere Arbeitslose
+9472,Bayreuth,2010,Jüngere Arbeitslose,2.07,Jüngere Arbeitslose
+9474,Forchheim,2010,Jüngere Arbeitslose,2.04,Jüngere Arbeitslose
+9562,Erlangen,2010,Jüngere Arbeitslose,1.66,Jüngere Arbeitslose
+9563,"Fürth, Stadt",2010,Jüngere Arbeitslose,3.71,Jüngere Arbeitslose
+9564,Nürnberg,2010,Jüngere Arbeitslose,4.08,Jüngere Arbeitslose
+9565,Schwabach,2010,Jüngere Arbeitslose,2.42,Jüngere Arbeitslose
+9572,Erlangen-Höchstadt,2010,Jüngere Arbeitslose,1.39,Jüngere Arbeitslose
+9573,Fürth,2010,Jüngere Arbeitslose,2.02,Jüngere Arbeitslose
+9574,Nürnberger Land,2010,Jüngere Arbeitslose,1.87,Jüngere Arbeitslose
+9461,"Bamberg, Stadt",2011,Jüngere Arbeitslose,1.78,Jüngere Arbeitslose.1
+9462,"Bayreuth, Stadt",2011,Jüngere Arbeitslose,1.75,Jüngere Arbeitslose.1
+9471,Bamberg,2011,Jüngere Arbeitslose,1.34,Jüngere Arbeitslose.1
+9472,Bayreuth,2011,Jüngere Arbeitslose,1.82,Jüngere Arbeitslose.1
+9474,Forchheim,2011,Jüngere Arbeitslose,1.75,Jüngere Arbeitslose.1
+9562,Erlangen,2011,Jüngere Arbeitslose,1.44,Jüngere Arbeitslose.1
+9563,"Fürth, Stadt",2011,Jüngere Arbeitslose,3.46,Jüngere Arbeitslose.1
+9564,Nürnberg,2011,Jüngere Arbeitslose,3.88,Jüngere Arbeitslose.1
+9565,Schwabach,2011,Jüngere Arbeitslose,1.89,Jüngere Arbeitslose.1
+9572,Erlangen-Höchstadt,2011,Jüngere Arbeitslose,1.1,Jüngere Arbeitslose.1
+9573,Fürth,2011,Jüngere Arbeitslose,1.68,Jüngere Arbeitslose.1
+9574,Nürnberger Land,2011,Jüngere Arbeitslose,1.56,Jüngere Arbeitslose.1
+9461,"Bamberg, Stadt",2012,Jüngere Arbeitslose,1.63,Jüngere Arbeitslose.2
+9462,"Bayreuth, Stadt",2012,Jüngere Arbeitslose,1.5,Jüngere Arbeitslose.2
+9471,Bamberg,2012,Jüngere Arbeitslose,1.55,Jüngere Arbeitslose.2
+9472,Bayreuth,2012,Jüngere Arbeitslose,1.78,Jüngere Arbeitslose.2
+9474,Forchheim,2012,Jüngere Arbeitslose,1.66,Jüngere Arbeitslose.2
+9562,Erlangen,2012,Jüngere Arbeitslose,1.55,Jüngere Arbeitslose.2
+9563,"Fürth, Stadt",2012,Jüngere Arbeitslose,3.48,Jüngere Arbeitslose.2
+9564,Nürnberg,2012,Jüngere Arbeitslose,3.66,Jüngere Arbeitslose.2
+9565,Schwabach,2012,Jüngere Arbeitslose,1.96,Jüngere Arbeitslose.2
+9572,Erlangen-Höchstadt,2012,Jüngere Arbeitslose,1.21,Jüngere Arbeitslose.2
+9573,Fürth,2012,Jüngere Arbeitslose,1.67,Jüngere Arbeitslose.2
+9574,Nürnberger Land,2012,Jüngere Arbeitslose,1.47,Jüngere Arbeitslose.2
+9461,"Bamberg, Stadt",2013,Jüngere Arbeitslose,1.81,Jüngere Arbeitslose.3
+9462,"Bayreuth, Stadt",2013,Jüngere Arbeitslose,1.58,Jüngere Arbeitslose.3
+9471,Bamberg,2013,Jüngere Arbeitslose,1.69,Jüngere Arbeitslose.3
+9472,Bayreuth,2013,Jüngere Arbeitslose,1.9,Jüngere Arbeitslose.3
+9474,Forchheim,2013,Jüngere Arbeitslose,1.81,Jüngere Arbeitslose.3
+9562,Erlangen,2013,Jüngere Arbeitslose,1.54,Jüngere Arbeitslose.3
+9563,"Fürth, Stadt",2013,Jüngere Arbeitslose,3.41,Jüngere Arbeitslose.3
+9564,Nürnberg,2013,Jüngere Arbeitslose,3.78,Jüngere Arbeitslose.3
+9565,Schwabach,2013,Jüngere Arbeitslose,2.5,Jüngere Arbeitslose.3
+9572,Erlangen-Höchstadt,2013,Jüngere Arbeitslose,1.32,Jüngere Arbeitslose.3
+9573,Fürth,2013,Jüngere Arbeitslose,1.67,Jüngere Arbeitslose.3
+9574,Nürnberger Land,2013,Jüngere Arbeitslose,1.77,Jüngere Arbeitslose.3
+9461,"Bamberg, Stadt",2014,Jüngere Arbeitslose,2.01,Jüngere Arbeitslose.4
+9462,"Bayreuth, Stadt",2014,Jüngere Arbeitslose,1.61,Jüngere Arbeitslose.4
+9471,Bamberg,2014,Jüngere Arbeitslose,1.74,Jüngere Arbeitslose.4
+9472,Bayreuth,2014,Jüngere Arbeitslose,1.73,Jüngere Arbeitslose.4
+9474,Forchheim,2014,Jüngere Arbeitslose,1.72,Jüngere Arbeitslose.4
+9562,Erlangen,2014,Jüngere Arbeitslose,1.58,Jüngere Arbeitslose.4
+9563,"Fürth, Stadt",2014,Jüngere Arbeitslose,3.37,Jüngere Arbeitslose.4
+9564,Nürnberg,2014,Jüngere Arbeitslose,3.79,Jüngere Arbeitslose.4
+9565,Schwabach,2014,Jüngere Arbeitslose,2.4,Jüngere Arbeitslose.4
+9572,Erlangen-Höchstadt,2014,Jüngere Arbeitslose,1.22,Jüngere Arbeitslose.4
+9573,Fürth,2014,Jüngere Arbeitslose,1.66,Jüngere Arbeitslose.4
+9574,Nürnberger Land,2014,Jüngere Arbeitslose,1.79,Jüngere Arbeitslose.4
+9461,"Bamberg, Stadt",2015,Jüngere Arbeitslose,1.81,Jüngere Arbeitslose.5
+9462,"Bayreuth, Stadt",2015,Jüngere Arbeitslose,1.55,Jüngere Arbeitslose.5
+9471,Bamberg,2015,Jüngere Arbeitslose,1.63,Jüngere Arbeitslose.5
+9472,Bayreuth,2015,Jüngere Arbeitslose,1.65,Jüngere Arbeitslose.5
+9474,Forchheim,2015,Jüngere Arbeitslose,1.6,Jüngere Arbeitslose.5
+9562,Erlangen,2015,Jüngere Arbeitslose,1.53,Jüngere Arbeitslose.5
+9563,"Fürth, Stadt",2015,Jüngere Arbeitslose,3.35,Jüngere Arbeitslose.5
+9564,Nürnberg,2015,Jüngere Arbeitslose,3.46,Jüngere Arbeitslose.5
+9565,Schwabach,2015,Jüngere Arbeitslose,2.44,Jüngere Arbeitslose.5
+9572,Erlangen-Höchstadt,2015,Jüngere Arbeitslose,1.16,Jüngere Arbeitslose.5
+9573,Fürth,2015,Jüngere Arbeitslose,1.64,Jüngere Arbeitslose.5
+9574,Nürnberger Land,2015,Jüngere Arbeitslose,1.66,Jüngere Arbeitslose.5
+9461,"Bamberg, Stadt",2016,Jüngere Arbeitslose,1.83,Jüngere Arbeitslose.6
+9462,"Bayreuth, Stadt",2016,Jüngere Arbeitslose,1.38,Jüngere Arbeitslose.6
+9471,Bamberg,2016,Jüngere Arbeitslose,1.71,Jüngere Arbeitslose.6
+9472,Bayreuth,2016,Jüngere Arbeitslose,1.82,Jüngere Arbeitslose.6
+9474,Forchheim,2016,Jüngere Arbeitslose,1.61,Jüngere Arbeitslose.6
+9562,Erlangen,2016,Jüngere Arbeitslose,1.53,Jüngere Arbeitslose.6
+9563,"Fürth, Stadt",2016,Jüngere Arbeitslose,3.13,Jüngere Arbeitslose.6
+9564,Nürnberg,2016,Jüngere Arbeitslose,3.22,Jüngere Arbeitslose.6
+9565,Schwabach,2016,Jüngere Arbeitslose,2.17,Jüngere Arbeitslose.6
+9572,Erlangen-Höchstadt,2016,Jüngere Arbeitslose,1.45,Jüngere Arbeitslose.6
+9573,Fürth,2016,Jüngere Arbeitslose,1.46,Jüngere Arbeitslose.6
+9574,Nürnberger Land,2016,Jüngere Arbeitslose,1.56,Jüngere Arbeitslose.6
+9461,"Bamberg, Stadt",2017,Jüngere Arbeitslose,2.02,Jüngere Arbeitslose.7
+9462,"Bayreuth, Stadt",2017,Jüngere Arbeitslose,1.55,Jüngere Arbeitslose.7
+9471,Bamberg,2017,Jüngere Arbeitslose,1.53,Jüngere Arbeitslose.7
+9472,Bayreuth,2017,Jüngere Arbeitslose,1.53,Jüngere Arbeitslose.7
+9474,Forchheim,2017,Jüngere Arbeitslose,1.4,Jüngere Arbeitslose.7
+9562,Erlangen,2017,Jüngere Arbeitslose,1.69,Jüngere Arbeitslose.7
+9563,"Fürth, Stadt",2017,Jüngere Arbeitslose,2.79,Jüngere Arbeitslose.7
+9564,Nürnberg,2017,Jüngere Arbeitslose,2.9,Jüngere Arbeitslose.7
+9565,Schwabach,2017,Jüngere Arbeitslose,2.11,Jüngere Arbeitslose.7
+9572,Erlangen-Höchstadt,2017,Jüngere Arbeitslose,1.16,Jüngere Arbeitslose.7
+9573,Fürth,2017,Jüngere Arbeitslose,1.2,Jüngere Arbeitslose.7
+9574,Nürnberger Land,2017,Jüngere Arbeitslose,1.47,Jüngere Arbeitslose.7
+9461,"Bamberg, Stadt",2018,Jüngere Arbeitslose,1.82,Jüngere Arbeitslose.8
+9462,"Bayreuth, Stadt",2018,Jüngere Arbeitslose,1.48,Jüngere Arbeitslose.8
+9471,Bamberg,2018,Jüngere Arbeitslose,1.38,Jüngere Arbeitslose.8
+9472,Bayreuth,2018,Jüngere Arbeitslose,1.25,Jüngere Arbeitslose.8
+9474,Forchheim,2018,Jüngere Arbeitslose,1.28,Jüngere Arbeitslose.8
+9562,Erlangen,2018,Jüngere Arbeitslose,1.61,Jüngere Arbeitslose.8
+9563,"Fürth, Stadt",2018,Jüngere Arbeitslose,2.79,Jüngere Arbeitslose.8
+9564,Nürnberg,2018,Jüngere Arbeitslose,2.72,Jüngere Arbeitslose.8
+9565,Schwabach,2018,Jüngere Arbeitslose,1.68,Jüngere Arbeitslose.8
+9572,Erlangen-Höchstadt,2018,Jüngere Arbeitslose,1.06,Jüngere Arbeitslose.8
+9573,Fürth,2018,Jüngere Arbeitslose,1.16,Jüngere Arbeitslose.8
+9574,Nürnberger Land,2018,Jüngere Arbeitslose,1.41,Jüngere Arbeitslose.8
+9461,"Bamberg, Stadt",2019,Jüngere Arbeitslose,1.65,Jüngere Arbeitslose.9
+9462,"Bayreuth, Stadt",2019,Jüngere Arbeitslose,1.54,Jüngere Arbeitslose.9
+9471,Bamberg,2019,Jüngere Arbeitslose,1.5,Jüngere Arbeitslose.9
+9472,Bayreuth,2019,Jüngere Arbeitslose,1.42,Jüngere Arbeitslose.9
+9474,Forchheim,2019,Jüngere Arbeitslose,1.31,Jüngere Arbeitslose.9
+9562,Erlangen,2019,Jüngere Arbeitslose,1.51,Jüngere Arbeitslose.9
+9563,"Fürth, Stadt",2019,Jüngere Arbeitslose,3.02,Jüngere Arbeitslose.9
+9564,Nürnberg,2019,Jüngere Arbeitslose,2.64,Jüngere Arbeitslose.9
+9565,Schwabach,2019,Jüngere Arbeitslose,2.13,Jüngere Arbeitslose.9
+9572,Erlangen-Höchstadt,2019,Jüngere Arbeitslose,1.1,Jüngere Arbeitslose.9
+9573,Fürth,2019,Jüngere Arbeitslose,1.42,Jüngere Arbeitslose.9
+9574,Nürnberger Land,2019,Jüngere Arbeitslose,1.38,Jüngere Arbeitslose.9
+9461,"Bamberg, Stadt",2020,Jüngere Arbeitslose,2.19,Jüngere Arbeitslose.10
+9462,"Bayreuth, Stadt",2020,Jüngere Arbeitslose,2.02,Jüngere Arbeitslose.10
+9471,Bamberg,2020,Jüngere Arbeitslose,1.78,Jüngere Arbeitslose.10
+9472,Bayreuth,2020,Jüngere Arbeitslose,1.79,Jüngere Arbeitslose.10
+9474,Forchheim,2020,Jüngere Arbeitslose,1.81,Jüngere Arbeitslose.10
+9562,Erlangen,2020,Jüngere Arbeitslose,1.55,Jüngere Arbeitslose.10
+9563,"Fürth, Stadt",2020,Jüngere Arbeitslose,3.66,Jüngere Arbeitslose.10
+9564,Nürnberg,2020,Jüngere Arbeitslose,3.48,Jüngere Arbeitslose.10
+9565,Schwabach,2020,Jüngere Arbeitslose,2.66,Jüngere Arbeitslose.10
+9572,Erlangen-Höchstadt,2020,Jüngere Arbeitslose,1.43,Jüngere Arbeitslose.10
+9573,Fürth,2020,Jüngere Arbeitslose,1.9,Jüngere Arbeitslose.10
+9574,Nürnberger Land,2020,Jüngere Arbeitslose,1.9,Jüngere Arbeitslose.10
+9461,"Bamberg, Stadt",2021,Jüngere Arbeitslose,2.19,Jüngere Arbeitslose.11
+9462,"Bayreuth, Stadt",2021,Jüngere Arbeitslose,1.56,Jüngere Arbeitslose.11
+9471,Bamberg,2021,Jüngere Arbeitslose,1.58,Jüngere Arbeitslose.11
+9472,Bayreuth,2021,Jüngere Arbeitslose,1.33,Jüngere Arbeitslose.11
+9474,Forchheim,2021,Jüngere Arbeitslose,1.54,Jüngere Arbeitslose.11
+9562,Erlangen,2021,Jüngere Arbeitslose,1.46,Jüngere Arbeitslose.11
+9563,"Fürth, Stadt",2021,Jüngere Arbeitslose,3.0,Jüngere Arbeitslose.11
+9564,Nürnberg,2021,Jüngere Arbeitslose,3.08,Jüngere Arbeitslose.11
+9565,Schwabach,2021,Jüngere Arbeitslose,2.19,Jüngere Arbeitslose.11
+9572,Erlangen-Höchstadt,2021,Jüngere Arbeitslose,1.22,Jüngere Arbeitslose.11
+9573,Fürth,2021,Jüngere Arbeitslose,1.58,Jüngere Arbeitslose.11
+9574,Nürnberger Land,2021,Jüngere Arbeitslose,1.49,Jüngere Arbeitslose.11
+9461,"Bamberg, Stadt",2022,Jüngere Arbeitslose,1.76,Jüngere Arbeitslose.12
+9462,"Bayreuth, Stadt",2022,Jüngere Arbeitslose,1.71,Jüngere Arbeitslose.12
+9471,Bamberg,2022,Jüngere Arbeitslose,1.34,Jüngere Arbeitslose.12
+9472,Bayreuth,2022,Jüngere Arbeitslose,1.48,Jüngere Arbeitslose.12
+9474,Forchheim,2022,Jüngere Arbeitslose,1.25,Jüngere Arbeitslose.12
+9562,Erlangen,2022,Jüngere Arbeitslose,1.29,Jüngere Arbeitslose.12
+9563,"Fürth, Stadt",2022,Jüngere Arbeitslose,2.59,Jüngere Arbeitslose.12
+9564,Nürnberg,2022,Jüngere Arbeitslose,2.57,Jüngere Arbeitslose.12
+9565,Schwabach,2022,Jüngere Arbeitslose,1.78,Jüngere Arbeitslose.12
+9572,Erlangen-Höchstadt,2022,Jüngere Arbeitslose,1.07,Jüngere Arbeitslose.12
+9573,Fürth,2022,Jüngere Arbeitslose,1.33,Jüngere Arbeitslose.12
+9574,Nürnberger Land,2022,Jüngere Arbeitslose,1.4,Jüngere Arbeitslose.12
+9461,"Bamberg, Stadt",2023,Jüngere Arbeitslose,1.87,Jüngere Arbeitslose.13
+9462,"Bayreuth, Stadt",2023,Jüngere Arbeitslose,1.83,Jüngere Arbeitslose.13
+9471,Bamberg,2023,Jüngere Arbeitslose,1.4,Jüngere Arbeitslose.13
+9472,Bayreuth,2023,Jüngere Arbeitslose,1.75,Jüngere Arbeitslose.13
+9474,Forchheim,2023,Jüngere Arbeitslose,1.49,Jüngere Arbeitslose.13
+9562,Erlangen,2023,Jüngere Arbeitslose,1.74,Jüngere Arbeitslose.13
+9563,"Fürth, Stadt",2023,Jüngere Arbeitslose,2.57,Jüngere Arbeitslose.13
+9564,Nürnberg,2023,Jüngere Arbeitslose,2.83,Jüngere Arbeitslose.13
+9565,Schwabach,2023,Jüngere Arbeitslose,1.99,Jüngere Arbeitslose.13
+9572,Erlangen-Höchstadt,2023,Jüngere Arbeitslose,1.43,Jüngere Arbeitslose.13
+9573,Fürth,2023,Jüngere Arbeitslose,1.44,Jüngere Arbeitslose.13
+9574,Nürnberger Land,2023,Jüngere Arbeitslose,1.66,Jüngere Arbeitslose.13
