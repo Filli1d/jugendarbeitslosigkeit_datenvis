@@ -41,11 +41,19 @@ COLOR_YOUTH = "#1f77b4"   # Blau (Jugend)
 COLOR_TOTAL = "#7f7f7f"   # Grau (Gesamt/Referenz)
 
 def beautify(ax):
+     """
+    Improves the appearance of a matplotlib axis.
+    Removes the top and right borders and disables the grid.
+    """
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
     ax.grid(False)
 
 def save_fig(fig, filename):
+     """
+    Saves a matplotlib figure to the figures directory.
+    The figure is closed after saving.
+    """
     fig.savefig(os.path.join(FIG_DIR, filename))
     plt.close(fig)
 
