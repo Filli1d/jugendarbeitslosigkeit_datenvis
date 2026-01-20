@@ -188,36 +188,6 @@ fig.tight_layout()
 save_fig(fig, "03_hotspots_2019_2023.png")
 
 # ============================================================
-# 4) SCATTER
-# ============================================================
-df_2023 = df_long[df_long["jahr"] == 2023].copy()
-df_scatter = (
-    df_2023.pivot_table(index="region", columns="variable", values="value", aggfunc="mean")
-    .dropna()
-)
-
-fig, ax = plt.subplots(figsize=(7.6, 5.4))  # minimal größer
-
-ax.scatter(df_scatter[VAR_TOTAL], df_scatter[VAR_YOUTH],
-           s=70, color=COLOR_YOUTH, alpha=0.85)
-
-min_val = float(min(df_scatter.min()))
-max_val = float(max(df_scatter.max()))
-ax.plot([min_val, max_val], [min_val, max_val],
-        linestyle="--", color=COLOR_TOTAL, linewidth=1.2)
-
-ax.set_xlabel("Gesamtarbeitslosenquote (%)")
-ax.set_ylabel("Jugendarbeitslosenquote (%)")
-beautify(ax)
-
-# suptitle ist stabiler als ax.set_title (schneidet nicht ab)
-fig.suptitle("Jugendquote ist nicht nur ein Abbild der Gesamtquote (2023)", y=0.98)
-
-# rect lässt oben Platz für suptitle
-fig.tight_layout(rect=[0, 0, 1, 0.95])
-save_fig(fig, "04_scatter_2023.png")
-
-# ============================================================
 # 5) DELTA BAR
 # ============================================================
 df_delta = pivot_s.copy()
