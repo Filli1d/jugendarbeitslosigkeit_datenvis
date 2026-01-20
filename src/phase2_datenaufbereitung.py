@@ -16,9 +16,7 @@ import pandas as pd
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 
-# -----------------------------
-# 0) Pfade
-# -----------------------------
+#Pfade
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CLEAN_PATH = os.path.join(BASE_DIR, "data", "clean", "clean_long.csv")
 FIG_DIR = os.path.join(BASE_DIR, "figures")
@@ -27,9 +25,7 @@ os.makedirs(FIG_DIR, exist_ok=True)
 print("Projektordner:", BASE_DIR)
 print("Lade:", CLEAN_PATH)
 
-# -----------------------------
-# 1) Style
-# -----------------------------
+# Style
 mpl.rcParams.update({
     "figure.dpi": 120,
     "savefig.dpi": 250,
@@ -54,9 +50,9 @@ def save_fig(fig, filename):
     plt.close(fig)
 
 
-# -----------------------------
-# 2) Daten laden
-# -----------------------------
+
+#Daten laden
+
 df_long = pd.read_csv(CLEAN_PATH)
 
 VAR_TOTAL = "Arbeitslosenquote"
