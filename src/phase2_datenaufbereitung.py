@@ -53,6 +53,7 @@ def save_fig(fig, filename):
     fig.savefig(os.path.join(FIG_DIR, filename))
     plt.close(fig)
 
+
 # -----------------------------
 # 2) Daten laden
 # -----------------------------
@@ -62,6 +63,24 @@ VAR_TOTAL = "Arbeitslosenquote"
 VAR_YOUTH = "Arbeitslosenquote Jüngere"
 
 df_long = df_long[df_long["variable"].isin([VAR_TOTAL, VAR_YOUTH])].copy()
+
+#ChatGPT:
+#Erzeuge mir lauffähigen Python-Code (pandas + matplotlib) für ein Uni-Projekt zur Datenvisualisierung. 
+#Ich habe dir eine Datendatei gegeben, die du selbst einlesen und inspizieren sollst, um zu erkennen, 
+#welche Spalten enthalten sind und wie die Daten strukturiert sind. 
+#Der Code soll ausschließlich Visualisierungen erzeugen, sauber kommentiert sein und jede Grafik exportieren.
+#Nutze klare Abschnitts-Kommentare, damit sofort erkennbar ist, welche Visualisierung erstellt wird.
+#Der Code MUSS folgende Visualisierungen enthalten:
+#1) Ein Liniendiagramm mit zwei Zeitreihen (Jugendarbeitslosigkeit vs. Gesamt), aggregiert über Regionen,
+#mit klarer Aussage, dass Jugendarbeitslosigkeit stärker auf Krisen reagiert.
+#2) Eine Heatmap (Region × Jahr) für Jugendarbeitslosigkeit, mit nach Durchschnitt sortierten Regionen
+#und gut lesbarer Farbskala.
+#3) Einen Hotspot-Vergleich zweier Jahre (z. B. 2019 → 2023) für ausgewählte Regionen,
+#inklusive einer explizit hervorgehobenen Region wie „Nürnberg“, dargestellt als Linien.
+#4) Ein horizontales Balkendiagramm, das die Veränderung der Jugendarbeitslosigkeit in Prozentpunkten zeigt
+#(negativ = besser, positiv = schlechter), visuell klar getrennt.
+
+Gib ausschließlich Python-Code aus, ohne erklärenden Text außerhalb des Codes.
 
 # ============================================================
 # 1) LINE: Jugend vs Gesamt 
