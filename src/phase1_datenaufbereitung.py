@@ -1,4 +1,15 @@
 """Einlesung der Daten"""
+#ChatGPT:
+#Du bist ein Coding-Assistent für ein universitäres Datenvisualisierungsprojekt.
+#Erstelle in Python ein vollständig auskommentiertes Skript zur Datenaufbereitung,
+#das eine deutsche INKAR CSV Datei zur Arbeitslosigkeit einliest. Die erste Zeile der
+#Datei enthält die Jahresangaben der Wertspalten. Entferne automatisch erzeugte
+#„Unnamed“-Spalten und verarbeite die Daten. Die Daten sollen in ein übersichtliches Long-/Tidy-Format überführt werden, das
+#für weitere Auswertungen und Visualisierungen geeignet ist. Ergänze einfache
+#Plausibilitäts- bzw. Qualitätschecks per print-Ausgaben und speichere den
+#bereinigten Datensatz als CSV-Datei. Gib ausschließlich den lauffähigen
+#Python-Code aus. Gib ausschließlich den vollständigen, direkt lauffähigen Python-Code aus.
+
 
 import os
 import pandas as pd
